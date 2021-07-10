@@ -1,0 +1,715 @@
+Headquarter,Size,Founded,Type,Industry,Revenue,Employer,Job_Title,Basic_Pay,Avg_Pay,Rating,Positive,Negative,Neutral,Online,Campus,Refferal,City,Monthly
+New York,1001 to 5000 Employees,21.0,Private,Consulting,$100 to $500 million (USD),Fractal,Data Scientist,1596545.0,1675000.0,4.0,72.0,19.0,9.0,48.0,20.0,15.0,Mumbai,No
+India,1001 to 5000 Employees,42.0,Private,Real Estate,$10+ billion (USD),Housing.com,Data Scientist,2320161.0,2320161.0,4.2,54.0,25.0,21.0,31.0,31.0,15.0,Mumbai,No
+Morocco,501 to 1000 Employees,8.0,Private,Consulting,$10+ billion (USD),Quantiphi,Data Scientist,965374.0,1017694.0,3.5,47.0,29.0,24.0,68.0,14.0,10.0,Mumbai,No
+India,10000+ Employees,44.0,Public,Government Agencies,$10+ billion (USD),Reliance Industries,Data Scientist,1864862.0,1922877.0,3.8,77.0,8.0,15.0,60.0,14.0,9.0,Mumbai,No
+India,5001 to 10000 Employees,11.0,Private,"Cable, Internet & Telephone Providers",$10+ billion (USD),Jio,Data Scientist,800000.0,800000.0,3.7,63.0,17.0,20.0,44.0,18.0,17.0,Mumbai,No
+New York,10000+ Employees,171.0,Private,Banking/Finance,$10+ billion (USD),Deloitte,Data Scientist,1160332.0,1200706.0,3.9,71.0,11.0,18.0,37.0,36.0,11.0,Mumbai,No
+India,10000+ Employees,24.0,Public,Information Technology,$10+ billion (USD),LTI,Data Scientist,46864.0,46864.0,3.6,69.0,16.0,15.0,60.0,15.0,9.0,Mumbai,No
+India,1001 to 5000 Employees,16.0,Private,Information Technology,$100 to $500 million (USD),CitiusTech,Data Scientist,286311.0,286311.0,3.8,52.0,33.0,15.0,26.0,19.0,17.0,Mumbai,No
+India,51 to 200 Employees,5.0,Private,Banking/Finance,$25 to $50 million (USD),CASHe,Data Scientist,1084136.0,1084136.0,3.2,100.0,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+India,10000+ Employees,40.0,Public,Information Technology,$10+ billion (USD),Infosys,Data Scientist,1123188.5,1099358.0,3.8,77.0,9.0,15.0,55.0,21.0,12.0,Mumbai,No
+Ireland,10000+ Employees,32.0,Public,Consulting,$10+ billion (USD),Accenture,Data Scientist,1365997.0,1297507.0,4.0,70.0,13.0,17.0,37.0,29.0,12.0,Mumbai,No
+New York,10000+ Employees,23.0,Private,Banking/Finance,$5 to $10 billion (USD),PwC,Data Scientist,1391861.5,1411381.0,3.9,72.0,9.0,19.0,48.0,30.0,9.0,Mumbai,No
+India,10000+ Employees,26.0,Public,Banking/Finance,$10+ billion (USD),HDFC Bank,Data Scientist,1788074.0,2533956.0,3.7,71.0,13.0,17.0,39.0,20.0,17.0,Mumbai,No
+Michigan,10000+ Employees,41.0,Private,Information Technology,$1 to $2 billion (USD),Atos-Syntel,Data Scientist,949678.0,852508.0,3.5,67.0,14.0,19.0,36.0,32.0,12.0,Mumbai,No
+India,10000+ Employees,65.0,Public,Manufacturing,$10+ billion (USD),Mahindra,Data Scientist,563153.0,995724.0,4.0,78.0,9.0,13.0,52.0,14.0,11.0,Mumbai,No
+India,5001 to 10000 Employees,53.0,Private,Banking/Finance,$10+ billion (USD),RBL Bank,Data Scientist,1178660.5,1380385.0,3.7,56.0,25.0,19.0,29.0,21.0,21.0,Mumbai,No
+India,10000+ Employees,65.0,Public,Healthcare Medicine,$10+ billion (USD),Piramal Enterprises,Data Scientist,784740.0,840000.0,3.6,76.0,8.0,16.0,33.0,19.0,16.0,Mumbai,No
+Connecticut,10000+ Employees,10.0,Public,Transportation,$10+ billion (USD),XPO Logistics,Data Scientist,1804060.5,1539101.0,3.6,55.0,32.0,12.0,59.0,13.0,9.0,Mumbai,No
+United Kingdom,10000+ Employees,173.0,Public,Banking/Finance,$10+ billion (USD),Prudential plc,Data Scientist,1013099.5,1078873.0,3.5,63.0,25.0,12.0,45.0,16.0,13.0,Mumbai,No
+India,1 to 50 Employees,8.0,Private,Information Technology,Less than $1 million (USD),Arya.ai,Data Scientist,668962.0,1142503.68,3.8,100.0,67.0,33.0,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+New Joursey,10000+ Employees,27.0,Public,Consulting,$10+ billion (USD),Cognizant Technology Solutions,Data Scientist,1342399.0,1342399.0,3.7,73.0,13.0,14.0,43.0,23.0,10.0,Mumbai,No
+India,10000+ Employees,35.0,Public,Information Technology,$2 to $5 billion (USD),Tech Mahindra,Data Scientist,864300.0,864300.0,3.6,64.0,18.0,19.0,38.0,23.0,11.0,Mumbai,No
+New York,10000+ Employees,25.0,Private,Telecommunication/Television,$2 to $5 billion (USD),ABC,Data Scientist,1010472.5,1010472.5,4.0,68.0,8.0,23.0,62.0,11.0,9.0,Mumbai,No
+California,10000+ Employees,23.0,Public,Information Technology,$10+ billion (USD),Google,Data Scientist,104406.0,104406.0,4.5,62.0,15.0,23.0,44.0,22.0,22.0,Mumbai,No
+India,5001 to 10000 Employees,21.0,Public,Consulting,$100 to $500 million (USD),eClerx,Data Scientist,52821.5,52821.5,3.5,62.0,17.0,21.0,30.0,20.0,14.0,Mumbai,No
+California,1001 to 5000 Employees,11.0,Private,Information Technology,$10+ billion (USD),Freshworks,Data Scientist,490902.0,490902.0,4.3,61.0,27.0,12.0,37.0,26.0,15.0,Mumbai,No
+Netherlands,5001 to 10000 Employees,37.0,Private,Information Technology,$10+ billion (USD),HERE Technologies,Data Scientist,1791835.0,1791835.0,3.8,62.0,24.0,15.0,35.0,28.0,12.0,Mumbai,No
+Denmark,10000+ Employees,93.0,Private,Transportation,$10+ billion (USD),MAERSK,Data Scientist,1687925.0,1687925.0,4.0,61.0,20.0,19.0,56.0,11.0,10.0,Mumbai,No
+India,1001 to 5000 Employees,23.0,Private,Information Technology,$1 to $2 billion (USD),Directi,Data Scientist,1683379.5,1683379.5,4.1,70.0,16.0,14.0,49.0,23.0,11.0,Mumbai,No
+India,10000+ Employees,27.0,Public,Banking/Finance,$1 to $2 billion (USD),L&T Financial Services,Data Scientist,939064.0,939064.0,3.3,69.0,10.0,21.0,47.0,18.0,18.0,Mumbai,No
+India,1001 to 5000 Employees,44.0,Public,Banking/Finance,$10+ billion (USD),Hdfc,Data Scientist,65527.0,65527.0,3.7,64.0,8.0,28.0,54.0,13.0,11.0,Mumbai,No
+India,10000+ Employees,65.0,Public,Healthcare Medicine,$10+ billion (USD),Piramal Enterprises,Data Scientist,784740.0,840000.0,3.6,76.0,8.0,16.0,33.0,19.0,16.0,Mumbai,No
+California,201 to 500 Employees,15.0,Private,Healthcare Medicine,$10+ billion (USD),Episource,Data Scientist,58030.5,58030.5,3.8,69.0,21.0,10.0,43.0,15.0,13.0,Mumbai,No
+India,51 to 200 Employees,7.0,Private,Information Technology,$5 to $10 million (USD),LogiNext Solutions,Data Scientist,454026.5,454026.5,3.6,63.0,30.0,7.0,59.0,15.0,11.0,Mumbai,No
+India,201 to 500 Employees,3.0,Public,Information Technology,$10+ billion (USD),ZEE5,Data Scientist,1210821.0,1210821.0,3.1,56.0,22.0,22.0,38.0,25.0,25.0,Mumbai,No
+India,1 to 50 Employees,9.0,Private,Information Technology,$100 to $500 million (USD),Bewakoof Brands,Data Scientist,714104.0,714104.0,3.8,44.0,44.0,13.0,56.0,13.0,13.0,Mumbai,No
+India,1 to 50 Employees,1.0,Private,Information Technology,$25 to $50 million (USD),Karza Technologies,Data Scientist,1650159.0,1650159.0,4.3,38.0,58.0,4.0,48.0,13.0,13.0,Mumbai,No
+India,51 to 200 Employees,6.0,Public,Information Technology,$50 to $100 million (USD),HDFC Developers,Data Scientist,1462999.0,1462999.0,2.8,33.0,67.0,33.0,33.0,33.0,13.633165829145728,Mumbai,No
+India,51 to 200 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),Locobuzz,Data Scientist,818791.5,818791.5,3.7,33.0,67.0,33.0,33.0,33.0,13.633165829145728,Mumbai,No
+India,1 to 50 Employees,4.0,Private,Information Technology,$25 to $50 million (USD),Cuddle,Data Scientist,1907705.0,1907705.0,4.9,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+India,10000+ Employees,76.0,Public,Information Technology,$5 to $10 billion (USD),Wipro,Data Scientist,357822.5,357822.5,3.7,70.0,13.0,17.0,44.0,23.0,11.0,Mumbai,No
+Washington,10000+ Employees,27.0,Public,Information Technology,$10+ billion (USD),Amazon,Data Scientist,748177.5,748177.5,4.3,59.0,19.0,23.0,54.0,15.0,12.0,Mumbai,No
+India,10000+ Employees,110.0,Public,Information Technology,$10+ billion (USD),IBM,Data Scientist,1158487.5,1158487.5,3.9,69.0,12.0,19.0,43.0,22.0,14.0,Mumbai,No
+United Kingdom,10000+ Employees,32.0,Private,Banking/Finance,$10+ billion (USD),EY,Data Scientist,1009560.5,1009560.5,3.8,73.0,9.0,18.0,36.0,36.0,13.0,Mumbai,No
+India,10000+ Employees,27.0,Public,Banking/Finance,$10+ billion (USD),ICICI Bank,Data Scientist,676737.0,676737.0,3.6,70.0,9.0,21.0,39.0,28.0,8.0,Mumbai,No
+India,10000+ Employees,24.0,Public,Information Technology,$10+ billion (USD),LTI,Data Scientist,599573.5,599573.5,3.6,69.0,16.0,15.0,60.0,15.0,9.0,Mumbai,No
+India,10000+ Employees,22.0,Public,Information Technology,$500 million to $1 billion (USD),Mindtree,Data Scientist,993115.0,993115.0,3.9,66.0,17.0,18.0,34.0,25.0,14.0,Mumbai,No
+Washington,10000+ Employees,46.0,Public,Information Technology,$10+ billion (USD),Microsoft,Data Scientist,153572.5,153572.5,4.4,66.0,13.0,21.0,33.0,30.0,15.0,Mumbai,No
+California,10000+ Employees,37.0,Private,Information Technology,$10+ billion (USD),Cisco Systems,Data Scientist,127202.0,127202.0,4.4,69.0,11.0,19.0,32.0,30.0,18.0,Mumbai,No
+New York,10000+ Employees,222.0,Public,Banking/Finance,$10+ billion (USD),J.P. Morgan,Data Scientist,948194.5,1142503.68,4.0,64.0,12.0,23.0,56.0,19.0,9.0,Mumbai,No
+New York,10000+ Employees,222.0,Public,Banking/Finance,$10+ billion (USD),J.P. Morgan,Data Scientist,943907.5,1142503.68,4.0,64.0,12.0,23.0,56.0,19.0,9.0,Mumbai,No
+India,10000+ Employees,44.0,Public,Government Agencies,$10+ billion (USD),Reliance Industries,Data Scientist,1864862.0,1922877.0,3.8,77.0,8.0,15.0,60.0,14.0,9.0,Mumbai,No
+India,10000+ Employees,44.0,Public,Government Agencies,$10+ billion (USD),Reliance Industries,Data Scientist,604399.5,604399.5,3.8,77.0,8.0,15.0,60.0,14.0,9.0,Mumbai,No
+Illinois,1001 to 5000 Employees,17.0,Private,Consulting,$10+ billion (USD),Mu Sigma,Data Scientist,2424168.0,2424168.0,3.3,70.0,12.0,19.0,77.0,12.0,5.0,Mumbai,No
+India,10000+ Employees,28.0,Private,Banking/Finance,$10+ billion (USD),Axis Bank,Data Scientist,1991598.0,1991598.0,3.5,70.0,11.0,20.0,36.0,30.0,13.0,Mumbai,No
+India,10000+ Employees,14.0,Private,Information Technology,$5 to $10 billion (USD),Flipkart,Data Scientist,2511706.0,2511706.0,4.2,58.0,26.0,16.0,29.0,18.0,17.0,Mumbai,No
+Ohio,10000+ Employees,22.0,Private,Transportation,$5 to $10 billion (USD),First Student,Data Scientist,597936.0,597936.0,4.1,62.0,8.0,30.0,36.0,36.0,12.0,Mumbai,No
+India,10000+ Employees,25.0,Public,Outsource,$100 to $500 million (USD),WNS,Data Scientist,196306.0,196306.0,3.4,56.0,21.0,23.0,21.0,20.0,16.0,Mumbai,No
+India,10000+ Employees,7.0,Public,Information Technology,$500 million to $1 billion (USD),L&T Technology Services,Data Scientist,57999.5,57999.5,3.7,72.0,12.0,16.0,50.0,17.0,11.0,Mumbai,No
+Missouri,1 to 50 Employees,74.0,Private,Telecommunication/Television,$10+ billion (USD),TCS,Data Scientist,1026759.0,1026759.0,4.0,72.0,9.0,19.0,49.0,33.0,5.0,Mumbai,No
+India,10000+ Employees,178.0,Public,Manufacturing,$10+ billion (USD),Siemens,Data Scientist,1215444.5,1215444.5,4.1,67.0,14.0,19.0,46.0,20.0,11.0,Mumbai,No
+India,10000+ Employees,76.0,Public,Manufacturing,$10+ billion (USD),Tata Motors,Data Scientist,60858.5,60858.5,4.0,82.0,5.0,14.0,68.0,8.0,6.0,Mumbai,No
+India,10000+ Employees,65.0,Public,Manufacturing,$10+ billion (USD),Mahindra,Data Scientist,363709.0,363709.0,4.0,78.0,9.0,13.0,52.0,14.0,11.0,Mumbai,No
+India,10000+ Employees,36.0,Private,Banking/Finance,$1 to $2 billion (USD),Kotak Mahindra,Data Scientist,780163.5,780163.5,3.5,70.0,13.0,17.0,27.0,18.0,17.0,Mumbai,No
+India,1 to 50 Employees,1.0,Private,Information Technology,$25 to $50 million (USD),DONE by NONE,Data Scientist,103739.0,103739.0,4.1,56.0,12.0,32.0,66.0,12.0,8.0,Mumbai,No
+India,5001 to 10000 Employees,20.0,Public,Information Technology,$500 million to $1 billion (USD),Zensar Technologies,Data Scientist,1520043.0,1520043.0,3.5,67.0,18.0,15.0,40.0,19.0,13.0,Mumbai,No
+India,1001 to 5000 Employees,34.0,Public,Banking/Finance,$5 to $10 billion (USD),CRISIL,Data Scientist,365696.5,365696.5,3.7,67.0,13.0,20.0,31.0,29.0,14.0,Mumbai,No
+India,10000+ Employees,7.0,Private,Information Technology,$10+ billion (USD),Swiggy,Data Scientist,1316024.0,1316024.0,4.0,42.0,45.0,12.0,26.0,23.0,18.0,Mumbai,No
+India,201 to 500 Employees,18.0,Private,Film Production & Distribution,$10+ billion (USD),Fresherworld.com,Data Scientist,1225326.5,1142503.68,4.1,57.0,15.0,28.0,66.0,18.0,7.0,Mumbai,No
+India,201 to 500 Employees,18.0,Private,Film Production & Distribution,$10+ billion (USD),Fresherworld.com,Data Scientist,1227818.5,1142503.68,4.1,57.0,15.0,28.0,66.0,18.0,7.0,Mumbai,No
+India,1001 to 5000 Employees,25.0,Private,Information Technology,$100 to $500 million (USD),Mercedes-Benz Research and Development India,Data Scientist,1217773.5,1217773.5,3.6,58.0,27.0,16.0,32.0,20.0,15.0,Mumbai,No
+India,10000+ Employees,30.0,Private,Banking/Finance,$10+ billion (USD),IndusInd Bank,Data Scientist,1996780.0,1996780.0,3.3,60.0,20.0,20.0,28.0,25.0,12.0,Mumbai,No
+New York,10000+ Employees,98.0,Public,Information Technology,$5 to $10 billion (USD),Nielsen,Data Scientist,697330.0,697330.0,3.7,65.0,14.0,21.0,46.0,25.0,14.0,Mumbai,No
+New York,1001 to 5000 Employees,21.0,Private,Consulting,$100 to $500 million (USD),Fractal,Data Scientist,404091.5,404091.5,4.0,72.0,19.0,9.0,48.0,20.0,15.0,Mumbai,No
+India,10000+ Employees,65.0,Private,Banking/Finance,$10+ billion (USD),HDFC Standard Life Insurance,Data Scientist,1235975.0,1286655.0,3.8,73.0,8.0,19.0,28.0,26.0,13.0,Mumbai,No
+India,1001 to 5000 Employees,21.0,Public,Information Technology,$100 to $500 million (USD),MakeMyTrip,Data Scientist,1393158.0,1393158.0,4.3,49.0,38.0,13.0,24.0,22.0,20.0,Mumbai,No
+India,5001 to 10000 Employees,26.0,Public,Banking/Finance,$10+ billion (USD),Edelweiss Financial Services,Data Scientist,1459763.5,1459763.5,3.6,59.0,17.0,24.0,41.0,16.0,14.0,Mumbai,No
+New Joursey,501 to 1000 Employees,23.0,Private,Information Technology,$5 to $10 million (USD),Zycus,Data Scientist,1067851.5,1067851.5,3.4,50.0,28.0,22.0,47.0,29.0,10.0,Mumbai,No
+Switzerland,10000+ Employees,41.0,Private,Manufacturing,$10+ billion (USD),Tata,Data Scientist,1230571.5,1230571.5,4.0,72.0,10.0,18.0,35.0,29.0,9.0,Mumbai,No
+California,1001 to 5000 Employees,24.0,Private,Information Technology,$1 to $2 billion (USD),TIBCO Software,Data Scientist,1033151.5,1033151.5,4.0,55.0,25.0,20.0,43.0,16.0,14.0,Mumbai,No
+Morocco,501 to 1000 Employees,8.0,Private,Consulting,$10+ billion (USD),Quantiphi,Data Scientist,149560.0,149560.0,3.5,47.0,29.0,24.0,68.0,14.0,10.0,Mumbai,No
+New York,1001 to 5000 Employees,52.0,Public,Banking/Finance,$1 to $2 billion (USD),MSCI,Data Scientist,590914.0,590914.0,4.0,62.0,20.0,18.0,41.0,18.0,15.0,Mumbai,No
+New York,1001 to 5000 Employees,52.0,Public,Banking/Finance,$1 to $2 billion (USD),MSCI,Data Scientist,598414.5,598414.5,4.0,62.0,20.0,18.0,41.0,18.0,15.0,Mumbai,No
+New York,5001 to 10000 Employees,13.0,Public,Banking/Finance,$1 to $2 billion (USD),Moody's Analytics,Data Scientist,1320718.0,1320718.0,3.8,60.0,19.0,21.0,44.0,21.0,15.0,Mumbai,No
+India,1001 to 5000 Employees,34.0,Private,Real Estate,$10+ billion (USD),Angel Broking,Data Scientist,253632.5,253632.5,3.7,70.0,16.0,14.0,34.0,20.0,18.0,Mumbai,No
+India,1001 to 5000 Employees,34.0,Public,Real Estate,$5 to $10 billion (USD),Motilal Oswal Securities,Data Scientist,578913.0,578913.0,3.6,58.0,29.0,13.0,31.0,25.0,20.0,Mumbai,No
+Minnesota,10000+ Employees,155.0,Public,Manufacturing,$10+ billion (USD),General Mills,Data Scientist,2353184.5,2353184.5,4.2,73.0,10.0,17.0,38.0,36.0,10.0,Mumbai,No
+India,1001 to 5000 Employees,42.0,Private,Banking/Finance,$1 to $2 billion (USD),Tata Capital,Data Scientist,1123750.5,1123750.5,3.5,74.0,8.0,18.0,58.0,17.0,14.0,Mumbai,No
+Illinois,10000+ Employees,9.0,Public,Manufacturing,$10+ billion (USD),Mondelēz International,Data Scientist,2040129.5,2040129.5,3.9,66.0,15.0,19.0,60.0,14.0,10.0,Mumbai,No
+India,1001 to 5000 Employees,8.0,Private,Education,$10 to $25 million (USD),Great Learning,Data Scientist,990164.0,990164.0,4.2,50.0,36.0,14.0,29.0,23.0,23.0,Mumbai,No
+India,1001 to 5000 Employees,42.0,Private,Banking/Finance,$1 to $2 billion (USD),infrasoft technologies,Data Scientist,476420.0,476420.0,3.9,55.0,21.0,24.0,30.0,20.0,14.0,Mumbai,No
+India,1001 to 5000 Employees,14.0,Private,Telecommunication/Television,$100 to $500 million (USD),Viacom 18,Data Scientist,720799.0,720799.0,3.9,60.0,13.0,27.0,30.0,15.0,15.0,Mumbai,No
+France,10000+ Employees,95.0,Private,Outsource,$5 to $10 billion (USD),Publicis Groupe,Data Scientist,654852.5,654852.0,3.7,53.0,19.0,28.0,45.0,18.0,15.0,Mumbai,No
+India,51 to 200 Employees,6.0,Private,Banking/Finance,$25 to $50 million (USD),Decimal Point Analytics,Data Scientist,1021274.0,1021274.0,3.4,63.0,9.0,28.0,49.0,33.0,7.0,Mumbai,No
+India,501 to 1000 Employees,14.0,Private,Information Technology,$10+ billion (USD),Iksula,Data Scientist,899380.0,899380.0,3.5,55.0,29.0,16.0,24.0,22.0,14.0,Mumbai,No
+India,201 to 500 Employees,5.0,Private,Information Technology,$100 to $500 million (USD),Cogoport,Data Scientist,658015.0,658015.0,2.3,41.0,50.0,9.0,61.0,17.0,6.0,Mumbai,No
+Ireland,10000+ Employees,41.0,Public,Banking/Finance,$2 to $5 billion (USD),Experian,Data Scientist,346177.0,346177.0,4.2,57.0,27.0,16.0,50.0,19.0,13.0,Mumbai,No
+Ireland,10000+ Employees,41.0,Public,Banking/Finance,$2 to $5 billion (USD),Experian,Data Scientist,347411.0,347411.0,4.2,57.0,27.0,16.0,50.0,19.0,13.0,Mumbai,No
+California,501 to 1000 Employees,18.0,Private,Information Technology,$10+ billion (USD),V2 Solutions,Data Scientist,1148260.5,1148260.5,3.6,61.0,26.0,13.0,33.0,19.0,14.0,Mumbai,No
+California,201 to 500 Employees,7.0,Private,Information Technology,$100 to $500 million (USD),Postman,Data Scientist,1324283.5,1324283.5,4.4,44.0,39.0,17.0,64.0,16.0,8.0,Mumbai,No
+India,1001 to 5000 Employees,40.0,Public,Manufacturing,$100 to $500 million (USD),Nilkamal,Data Scientist,601917.0,601917.0,3.7,42.0,33.0,25.0,33.0,22.0,22.0,Mumbai,No
+India,501 to 1000 Employees,15.0,Private,Information Technology,$10+ billion (USD),Play Games24x7,Data Scientist,2073364.0,2073364.0,4.0,50.0,38.0,12.0,32.0,32.0,20.0,Mumbai,No
+India,201 to 500 Employees,7.0,Private,Information Technology,$100 to $500 million (USD),Turtlemint,Data Scientist,1257937.0,1257937.0,3.6,14.0,79.0,7.0,38.0,31.0,15.0,Mumbai,No
+India,201 to 500 Employees,3.0,Public,Information Technology,$10+ billion (USD),ZEE5,Data Scientist,627415.0,627414.5,3.1,56.0,22.0,22.0,38.0,25.0,25.0,Mumbai,No
+India,51 to 200 Employees,8.0,Private,Consulting,$1 to $2 billion (USD),Fork Media,Data Scientist,605615.0,605615.0,3.4,50.0,25.0,25.0,75.0,25.0,13.633165829145728,Mumbai,No
+India,201 to 500 Employees,14.0,Private,Transportation,$10+ billion (USD),Meru Mobility Tech,Data Scientist,1034757.5,1034757.5,4.2,47.0,33.0,20.0,44.0,31.0,13.0,Mumbai,No
+California,51 to 200 Employees,8.0,Private,Information Technology,$1 to $2 billion (USD),CleverTap,Data Scientist,1991756.5,1991756.5,4.0,70.0,25.0,5.0,38.0,25.0,13.0,Mumbai,No
+Australia,1001 to 5000 Employees,24.0,Private,Information Technology,$100 to $500 million (USD),Planit,Data Scientist,733929.0,733929.0,3.4,48.0,28.0,24.0,83.0,8.0,6.0,Mumbai,No
+India,501 to 1000 Employees,12.0,Private,Banking/Finance,$100 to $500 million (USD),Axis Mutual Fund,Data Scientist,84470.0,84470.0,3.7,100.0,50.0,50.0,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+India,51 to 200 Employees,20.0,Private,Information Technology,$10+ billion (USD),D2K Technologies India,Data Scientist,277068.0,277068.0,2.8,20.0,60.0,20.0,75.0,25.0,13.633165829145728,Mumbai,No
+California,1001 to 5000 Employees,9.0,Public,Telecommunication/Television,$100 to $500 million (USD),Global Eagle,Data Scientist,4398751.0,4398751.0,2.8,45.0,32.0,23.0,68.0,11.0,11.0,Mumbai,No
+Alabama,201 to 500 Employees,57.0,Private,Consulting,$25 to $50 million (USD),TTL,Data Scientist,10222.0,10222.0,3.8,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+Michigan,501 to 1000 Employees,15.0,Private,Information Technology,$25 to $50 million (USD),Shorewise Consulting,Data Scientist,453120.0,453120.0,4.2,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+California,1001 to 5000 Employees,14.0,Public,Information Technology,$1 to $2 billion (USD),Zendesk,Data Scientist,45856.0,45856.0,4.4,48.0,37.0,14.0,57.0,20.0,16.0,Mumbai,No
+India,51 to 200 Employees,3.0,Private,Consulting,$25 to $50 million (USD),NEWJ,Data Scientist,1422848.0,1422848.0,3.5,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+California,201 to 500 Employees,19.0,Public,Outsource,$10+ billion (USD),Creative Circle,Data Scientist,25350.5,25350.0,3.7,52.0,28.0,20.0,71.0,13.0,6.0,Mumbai,No
+India,51 to 200 Employees,3.0,Private,Information Technology,$1 to $5 million (USD),Javis,Data Scientist,1635903.0,1635903.0,3.8621318373071514,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+India,5001 to 10000 Employees,26.0,Public,Banking/Finance,$10+ billion (USD),Edelweiss Financial Services,Data Scientist,238760.0,225745.0,3.6,59.0,17.0,24.0,41.0,16.0,14.0,Mumbai,No
+India,1 to 50 Employees,5.0,Private,Information Technology,$25 to $50 million (USD),Sciative Solutions,Data Scientist,534051.0,403950.0,3.6,69.0,8.0,23.0,55.0,36.0,9.0,Mumbai,No
+India,5001 to 10000 Employees,21.0,Public,Consulting,$100 to $500 million (USD),eClerx,Data Scientist,1429810.5,1142503.68,3.5,62.0,17.0,21.0,30.0,20.0,14.0,Mumbai,No
+New York,1001 to 5000 Employees,21.0,Private,Consulting,$100 to $500 million (USD),Fractal,Data Scientist,415246.5,415246.5,4.0,72.0,19.0,9.0,48.0,20.0,15.0,Mumbai,No
+New York,1001 to 5000 Employees,52.0,Public,Banking/Finance,$1 to $2 billion (USD),MSCI,Data Scientist,743347.5,743347.5,4.0,62.0,20.0,18.0,41.0,18.0,15.0,Mumbai,No
+India,1 to 50 Employees,1.0,Private,Information Technology,$25 to $50 million (USD),Karza Technologies,Data Scientist,199040.0,199040.0,4.3,38.0,58.0,4.0,48.0,13.0,13.0,Mumbai,No
+New York,1001 to 5000 Employees,21.0,Private,Consulting,$100 to $500 million (USD),Fractal,Data Scientist,2069333.0,2069333.0,4.0,72.0,19.0,9.0,48.0,20.0,15.0,Mumbai,No
+India,10000+ Employees,65.0,Private,Banking/Finance,$10+ billion (USD),HDFC Standard Life Insurance,Data Scientist,2574424.5,3000000.0,3.8,73.0,8.0,19.0,28.0,26.0,13.0,Mumbai,No
+Netherlands,5001 to 10000 Employees,37.0,Private,Information Technology,$10+ billion (USD),HERE Technologies,Data Scientist,4070074.0,4070074.0,3.8,62.0,24.0,15.0,35.0,28.0,12.0,Mumbai,No
+Ireland,10000+ Employees,32.0,Public,Consulting,$10+ billion (USD),Accenture,Data Scientist,2471678.0,2471678.0,4.0,70.0,13.0,17.0,37.0,29.0,12.0,Mumbai,No
+India,1 to 50 Employees,15.0,Private,Information Technology,$25 to $50 million (USD),Neoquant Solutions,Data Scientist,357763.5,357763.5,3.5,71.0,24.0,6.0,43.0,21.0,14.0,Mumbai,No
+India,1 to 50 Employees,5.0,Private,Information Technology,$25 to $50 million (USD),Sciative Solutions,Data Scientist,489804.5,1142503.68,3.6,69.0,8.0,23.0,55.0,36.0,9.0,Mumbai,No
+Washington,10000+ Employees,27.0,Public,Information Technology,$10+ billion (USD),Amazon,Data Scientist,62097.0,62097.0,4.3,59.0,19.0,23.0,54.0,15.0,12.0,Mumbai,No
+United Kingdom,10000+ Employees,32.0,Private,Banking/Finance,$10+ billion (USD),EY,Data Scientist,395769.0,395769.0,3.8,73.0,9.0,18.0,36.0,36.0,13.0,Mumbai,No
+New York,10000+ Employees,23.0,Private,Banking/Finance,$5 to $10 billion (USD),PwC,Data Scientist,486044.0,486044.0,3.9,72.0,9.0,19.0,48.0,30.0,9.0,Mumbai,No
+India,10000+ Employees,65.0,Public,Manufacturing,$10+ billion (USD),Mahindra,Data Scientist,259137.0,259137.0,4.0,78.0,9.0,13.0,52.0,14.0,11.0,Mumbai,No
+India,1001 to 5000 Employees,6.0,Private,Education,$10 to $25 million (USD),upGrad,Data Scientist,2380828.5,2380828.5,3.2,57.0,28.0,15.0,43.0,22.0,18.0,Mumbai,No
+Minnesota,10000+ Employees,155.0,Public,Manufacturing,$10+ billion (USD),General Mills,Data Scientist,129490.0,129490.0,4.2,73.0,10.0,17.0,38.0,36.0,10.0,Mumbai,No
+India,51 to 200 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),WorkIndia,Data Scientist,1031868.0,1031868.0,3.4,38.0,52.0,10.0,35.0,24.0,24.0,Mumbai,No
+India,51 to 200 Employees,9.0,Private,Information Technology,$5 to $10 million (USD),Intelligence Node,Data Scientist,328721.0,328721.0,3.5,64.0,9.0,27.0,50.0,40.0,10.0,Mumbai,No
+India,51 to 200 Employees,6.0,Private,Banking/Finance,$25 to $50 million (USD),Aptivaa,Data Scientist,182381.0,182381.0,4.3,100.0,50.0,50.0,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+India,1 to 50 Employees,4.0,Private,Information Technology,$1 to $5 million (USD),Sabertooth Technologies,Data Scientist,120537.0,120537.0,3.6,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+Germany,1001 to 5000 Employees,49.0,Private,Information Technology,$10+ billion (USD),HRS Group,Data Scientist,453244.0,453244.0,2.9,32.0,50.0,18.0,60.0,20.0,10.0,Mumbai,No
+New York,10000+ Employees,98.0,Public,Information Technology,$5 to $10 billion (USD),Nielsen,Data Scientist,1103621.5,1103621.5,3.7,65.0,14.0,21.0,46.0,25.0,14.0,Mumbai,No
+India,1001 to 5000 Employees,16.0,Private,Information Technology,$100 to $500 million (USD),CitiusTech,Data Scientist,1947465.0,1947465.0,3.8,52.0,33.0,15.0,26.0,19.0,17.0,Mumbai,No
+Illinois,1001 to 5000 Employees,95.0,Private,Consulting,$1 to $2 billion (USD),Kearney,Data Scientist,2788425.5,2788425.5,4.2,67.0,12.0,21.0,39.0,37.0,12.0,Mumbai,No
+Connecticut,10000+ Employees,10.0,Public,Transportation,$10+ billion (USD),XPO Logistics,Data Scientist,2504262.5,2504262.5,3.6,55.0,32.0,12.0,59.0,13.0,9.0,Mumbai,No
+India,51 to 200 Employees,6.0,Private,Education,$25 to $50 million (USD),INSOFE,Data Scientist,2013864.5,2013864.5,3.4,100.0,50.0,50.0,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+India,201 to 500 Employees,25.0,Private,Banking/Finance,$50 to $100 million (USD),DSP Investment Managers Pvt. Ltd.,Data Scientist,2735413.5,1142503.68,3.8,78.0,22.0,44.0,33.0,22.0,13.633165829145728,Mumbai,No
+India,51 to 200 Employees,6.0,Private,Outsource,$25 to $50 million (USD),Komli Media,Data Scientist,2532931.0,2532931.0,3.5,45.0,9.0,45.0,27.0,27.0,18.0,Mumbai,No
+India,501 to 1000 Employees,19.0,Private,Consulting,$10+ billion (USD),10FA India,Data Scientist,1396171.0,1396171.0,4.3,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+California,10000+ Employees,42.0,Public,Information Technology,$2 to $5 billion (USD),Teradata,Data Scientist,58156.5,58156.5,4.1,63.0,24.0,13.0,37.0,21.0,16.0,Mumbai,No
+India,1001 to 5000 Employees,25.0,Private,Information Technology,$10+ billion (USD),People Group,Data Scientist,869839.5,869839.5,4.3,75.0,14.0,11.0,29.0,22.0,17.0,Mumbai,No
+India,201 to 500 Employees,3.0,Public,Information Technology,$10+ billion (USD),ZEE5,Data Scientist,120996.0,120996.0,3.1,56.0,22.0,22.0,38.0,25.0,25.0,Mumbai,No
+India,1 to 50 Employees,2.0,Private,Information Technology,$1 to $5 million (USD),Daten & Wissen,Data Scientist,504195.0,504194.5,4.8,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Mumbai,No
+Australia,501 to 1000 Employees,11.0,Public,Outsource,$25 to $50 million (USD),Freelancer,Data Scientist,15804.0,15804.0,4.2,66.0,19.0,15.0,65.0,9.0,8.0,Mumbai,No
+Pennsylvania,1001 to 5000 Employees,10.0,Private,Information Technology,$5 to $10 million (USD),Accion Labs,Data Scientist,2298263.0,2298263.0,4.0,37.0,54.0,9.0,42.0,24.0,19.0,Mumbai,No
+India,51 to 200 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),Locobuzz,Data Scientist,1200264.0,1200264.0,3.7,33.0,67.0,33.0,33.0,33.0,13.633165829145728,Mumbai,No
+New Joursey,1001 to 5000 Employees,22.0,Private,Consulting,$10+ billion (USD),GEP,Data Scientist,844717.5,844717.5,3.9,60.0,22.0,19.0,48.0,21.0,14.0,Mumbai,No
+Illinois,5001 to 10000 Employees,37.0,Public,Banking/Finance,$1 to $2 billion (USD),Morningstar,Data Scientist,785120.0,780757.0,4.1,63.0,18.0,19.0,53.0,25.0,10.0,Mumbai,No
+India,201 to 500 Employees,8.0,Private,Information Technology,$25 to $50 million (USD),Datametica,Data Scientist,920048.5,920048.5,3.6,79.0,17.0,3.0,38.0,26.0,14.0,Mumbai,No
+France,10000+ Employees,21.0,Public,Banking/Finance,$10+ billion (USD),BNP Paribas,Data Scientist,1839051.0,1839051.0,3.7,64.0,13.0,23.0,49.0,17.0,11.0,Mumbai,No
+Ireland,10000+ Employees,32.0,Public,Consulting,$10+ billion (USD),Accenture,Data Scientist,1143050.0,1143050.0,4.0,70.0,13.0,17.0,37.0,29.0,12.0,Mumbai,No
+India,10000+ Employees,27.0,Public,Banking/Finance,$10+ billion (USD),ICICI Bank,Data Scientist,662587.5,662587.5,3.6,70.0,9.0,21.0,39.0,28.0,8.0,Mumbai,No
+India,10000+ Employees,65.0,Public,Manufacturing,$10+ billion (USD),Mahindra,Data Scientist,1923008.0,1923008.0,4.0,78.0,9.0,13.0,52.0,14.0,11.0,Mumbai,No
+India,51 to 200 Employees,6.0,Private,Banking/Finance,$25 to $50 million (USD),Decimal Point Analytics,Data Scientist,1158198.38,1142503.68,3.4,63.0,9.0,28.0,49.0,33.0,7.0,Mumbai,No
+Kuwait,51 to 200 Employees,3.0,Private,Banking/Finance,Less than $1 million (USD),Unimoni,Data Scientist,2661138.0,2661138.0,3.2,71.0,14.0,14.0,46.0,31.0,8.0,Mumbai,No
+Germany,201 to 500 Employees,10.0,Private,Consulting,$1 to $5 million (USD),Innoplexus,Data Scientist,1176617.0,1176617.0,3.9,58.0,19.0,22.0,33.0,24.0,24.0,Pune,No
+Netherlands,10000+ Employees,185.0,Public,Consulting,$2 to $5 billion (USD),Wolters Kluwer,Data Scientist,1122487.0,1122487.0,3.7,51.0,31.0,18.0,44.0,23.0,12.0,Pune,No
+India,10000+ Employees,110.0,Public,Information Technology,$10+ billion (USD),IBM,Data Scientist,1265323.0,1265324.0,3.9,69.0,12.0,19.0,43.0,22.0,14.0,Pune,No
+India,5001 to 10000 Employees,20.0,Public,Information Technology,$500 million to $1 billion (USD),Zensar Technologies,Data Scientist,668962.0,668962.0,3.5,67.0,18.0,15.0,40.0,19.0,13.0,Pune,No
+India,1 to 50 Employees,5.0,Private,Information Technology,$25 to $50 million (USD),ThinkBumblebee Analytics,Data Scientist,943408.0,943408.0,3.5,100.0,50.0,50.0,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+New Joursey,10000+ Employees,27.0,Public,Consulting,$10+ billion (USD),Cognizant Technology Solutions,Data Scientist,612265.0,632674.0,3.7,73.0,13.0,14.0,43.0,23.0,10.0,Pune,No
+Ireland,10000+ Employees,32.0,Public,Consulting,$10+ billion (USD),Accenture,Data Scientist,1150321.0,1255652.0,4.0,70.0,13.0,17.0,37.0,29.0,12.0,Pune,No
+India,501 to 1000 Employees,15.0,Private,Consulting,$25 to $50 million (USD),SG Analytics,Data Scientist,783602.0,813417.0,3.6,59.0,22.0,19.0,32.0,18.0,16.0,Pune,No
+India,10000+ Employees,35.0,Public,Information Technology,$2 to $5 billion (USD),Tech Mahindra,Data Scientist,916971.0,916971.0,3.6,64.0,18.0,19.0,38.0,23.0,11.0,Pune,No
+India,10000+ Employees,40.0,Public,Information Technology,$10+ billion (USD),Infosys,Data Scientist,784457.0,724301.0,3.8,77.0,9.0,15.0,55.0,21.0,12.0,Pune,No
+India,10000+ Employees,76.0,Public,Information Technology,$5 to $10 billion (USD),Wipro,Data Scientist,806471.5,1038728.0,3.7,70.0,13.0,17.0,44.0,23.0,11.0,Pune,No
+France,10000+ Employees,54.0,Public,Information Technology,$10+ billion (USD),Capgemini,Data Scientist,1149841.0,775536.0,3.9,74.0,14.0,13.0,35.0,28.0,14.0,Pune,No
+India,10000+ Employees,24.0,Public,Information Technology,$10+ billion (USD),LTI,Data Scientist,765000.0,800000.0,3.6,69.0,16.0,15.0,60.0,15.0,9.0,Pune,No
+Michigan,10000+ Employees,41.0,Private,Information Technology,$1 to $2 billion (USD),Atos-Syntel,Data Scientist,952023.5,413867.0,3.5,67.0,14.0,19.0,36.0,32.0,12.0,Pune,No
+United Kingdom,10000+ Employees,331.0,Public,Banking/Finance,$10+ billion (USD),Barclays,Data Scientist,1354677.0,1200000.0,4.1,62.0,16.0,22.0,53.0,17.0,12.0,Pune,No
+Switzerland,10000+ Employees,165.0,Public,Banking/Finance,$10+ billion (USD),Credit Suisse,Data Scientist,1073914.5,1389588.0,3.9,67.0,13.0,21.0,50.0,20.0,11.0,Pune,No
+India,1001 to 5000 Employees,42.0,Private,Banking/Finance,$10+ billion (USD),Bajaj Finance,Data Scientist,1436427.5,934725.0,3.8,69.0,15.0,16.0,42.0,23.0,19.0,Pune,No
+Texas,10000+ Employees,95.0,Public,Government Agencies,$10+ billion (USD),Schlumberger,Data Scientist,2558833.0,2566740.0,3.7,73.0,9.0,17.0,51.0,26.0,10.0,Pune,No
+Germany,10000+ Employees,21.0,Private,Information Technology,$5 to $10 billion (USD),T-Systems,Data Scientist,1279864.5,1253495.0,3.8,60.0,22.0,18.0,40.0,15.0,13.0,Pune,No
+India,10000+ Employees,132.0,Public,Manufacturing,$10+ billion (USD),Michelin,Data Scientist,1229480.5,1150000.0,4.0,71.0,14.0,15.0,35.0,25.0,15.0,Pune,No
+Texas,10000+ Employees,4.0,Public,Information Technology,$1 to $2 billion (USD),Exela Technologies,Data Scientist,2747137.0,837101.0,2.6,51.0,32.0,17.0,59.0,12.0,11.0,Pune,No
+India,10000+ Employees,30.0,Public,Information Technology,$5 to $10 billion (USD),HCL Technologies,Data Scientist,59953.5,59953.5,3.7,62.0,20.0,18.0,29.0,22.0,17.0,Pune,No
+New York,10000+ Employees,209.0,Public,Banking/Finance,$10+ billion (USD),Citi,Data Scientist,1544942.5,1544942.5,3.9,64.0,13.0,23.0,49.0,22.0,10.0,Pune,No
+United Kingdom,10000+ Employees,39.0,Public,"Cable, Internet & Telephone Providers",$10+ billion (USD),Vodafone,Data Scientist,1306605.0,1306605.0,4.0,65.0,15.0,20.0,62.0,10.0,8.0,Pune,No
+India,1001 to 5000 Employees,31.0,Public,Information Technology,$10+ billion (USD),Birlasoft,Data Scientist,5273294.5,5273294.5,3.5,62.0,20.0,18.0,42.0,17.0,15.0,Pune,No
+New York,10000+ Employees,53.0,Private,Information Technology,$10+ billion (USD),Tata Consultancy Services (North America),Data Scientist,67949.0,67949.0,3.7,64.0,14.0,22.0,40.0,33.0,11.0,Pune,No
+Illinois,10000+ Employees,184.0,Public,Manufacturing,$10+ billion (USD),John Deere,Data Scientist,1475658.5,1475658.5,4.0,77.0,8.0,15.0,35.0,35.0,11.0,Pune,No
+Ireland,10000+ Employees,110.0,Private,Manufacturing,$10+ billion (USD),Eaton,Data Scientist,1250532.0,1250532.0,3.9,66.0,16.0,18.0,44.0,30.0,8.0,Pune,No
+India,501 to 1000 Employees,18.0,Private,Information Technology,$10+ billion (USD),GS Lab,Data Scientist,816931.5,816931.5,4.1,60.0,25.0,15.0,32.0,26.0,15.0,Pune,No
+India,10000+ Employees,65.0,Private,Banking/Finance,$10+ billion (USD),Bajaj Finserv Lending,Data Scientist,29396.5,29396.5,3.2,56.0,38.0,6.0,33.0,30.0,19.0,Pune,No
+India,501 to 1000 Employees,24.0,Private,Healthcare Medicine,$10+ billion (USD),Saama Technologies,Data Scientist,918937.0,918937.0,3.8,53.0,35.0,12.0,31.0,18.0,15.0,Pune,No
+India,201 to 500 Employees,8.0,Private,Information Technology,$25 to $50 million (USD),Datametica,Data Scientist,964990.5,964990.5,3.6,79.0,17.0,3.0,38.0,26.0,14.0,Pune,No
+Hanover,1001 to 5000 Employees,50.0,Private,Outsource,$500 million to $1 billion (USD),Merkle,Data Scientist,1195932.5,1195932.5,3.8,58.0,22.0,20.0,65.0,10.0,9.0,Pune,No
+California,201 to 500 Employees,11.0,Private,Information Technology,$10+ billion (USD),Abzooba,Data Scientist,1885372.5,1885372.5,4.4,53.0,29.0,18.0,60.0,20.0,13.0,Pune,No
+California,1001 to 5000 Employees,15.0,Public,Information Technology,$10+ billion (USD),Coupa Software Inc,Data Scientist,1239746.0,1239746.0,4.3,38.0,49.0,13.0,55.0,18.0,14.0,Pune,No
+Singapore,51 to 200 Employees,12.0,Private,Information Technology,$10+ billion (USD),Knorex,Data Scientist,52991.0,52991.0,3.3,36.0,21.0,43.0,83.0,8.0,8.0,Pune,No
+India,51 to 200 Employees,7.0,Private,Information Technology,$25 to $50 million (USD),ThinkBridge,Data Scientist,61548.5,61548.5,3.7,88.0,13.0,60.0,20.0,20.0,13.633165829145728,Pune,No
+India,51 to 200 Employees,9.0,Private,Information Technology,$1 to $2 billion (USD),MindBowser Info Solutions,Data Scientist,277103.0,277103.0,4.3,38.0,50.0,13.0,40.0,40.0,20.0,Pune,No
+India,51 to 200 Employees,5.0,Private,Information Technology,$25 to $50 million (USD),Coditation Systems,Data Scientist,45935.5,45935.5,3.8,50.0,38.0,13.0,38.0,25.0,25.0,Pune,No
+France,1 to 50 Employees,1.0,Private,Information Technology,$25 to $50 million (USD),HiLabs,Data Scientist,1801380.0,1801380.0,4.1,100.0,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+India,1 to 50 Employees,2.0,Private,Information Technology,$25 to $50 million (USD),Jash Data Sciences,Data Scientist,657451.0,657451.0,4.0,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+Washington,10000+ Employees,27.0,Public,Information Technology,$10+ billion (USD),Amazon,Data Scientist,113131.0,113131.0,4.3,59.0,19.0,23.0,54.0,15.0,12.0,Pune,No
+Washington,10000+ Employees,27.0,Public,Information Technology,$10+ billion (USD),Amazon,Data Scientist,112307.5,112307.5,4.3,59.0,19.0,23.0,54.0,15.0,12.0,Pune,No
+Netherlands,10000+ Employees,34.0,Private,Consulting,$1 to $2 billion (USD),KPMG,Data Scientist,627945.0,627945.0,3.8,71.0,10.0,19.0,48.0,28.0,10.0,Pune,No
+California,10000+ Employees,17.0,Public,Outsource,$2 to $5 billion (USD),Concentrix,Data Scientist,281982.0,281982.0,3.9,64.0,18.0,17.0,52.0,14.0,13.0,Pune,No
+North Carolina,10000+ Employees,136.0,Public,Information Technology,$10+ billion (USD),Honeywell,Data Scientist,1394239.0,1394239.0,3.7,64.0,16.0,20.0,39.0,21.0,13.0,Pune,No
+California,10000+ Employees,23.0,Public,Information Technology,$10+ billion (USD),Google,Data Scientist,7392810.5,7392810.5,4.5,62.0,15.0,23.0,44.0,22.0,22.0,Pune,No
+India,5001 to 10000 Employees,31.0,Public,Information Technology,$500 million to $1 billion (USD),KPIT Technologies,Data Scientist,1621820.5,1621820.5,3.3,71.0,15.0,14.0,48.0,17.0,12.0,Pune,No
+India,10000+ Employees,36.0,Private,Banking/Finance,$1 to $2 billion (USD),Kotak Mahindra,Data Scientist,698353.5,698353.5,3.5,70.0,13.0,17.0,27.0,18.0,17.0,Pune,No
+New Joursey,10000+ Employees,72.0,Public,Consulting,$10+ billion (USD),ADP,Data Scientist,1224120.0,879486.0,4.0,57.0,25.0,19.0,46.0,20.0,14.0,Pune,No
+Illinois,5001 to 10000 Employees,28.0,Private,Information Technology,$100 to $500 million (USD),ThoughtWorks,Data Scientist,1445778.0,1445778.0,4.4,56.0,28.0,16.0,46.0,16.0,14.0,Pune,No
+Finland,10000+ Employees,53.0,Public,Information Technology,$1 to $2 billion (USD),TietoEVRY,Data Scientist,769320.0,769320.0,4.1,75.0,15.0,9.0,33.0,28.0,14.0,Pune,No
+Illinois,1001 to 5000 Employees,25.0,Private,Information Technology,$100 to $500 million (USD),Yash Technologies,Data Scientist,835663.0,835663.0,3.7,64.0,22.0,14.0,42.0,17.0,17.0,Pune,No
+Ireland,10000+ Employees,110.0,Private,Manufacturing,$10+ billion (USD),Eaton,Data Scientist,597045.0,597045.0,3.9,66.0,16.0,18.0,44.0,30.0,8.0,Pune,No
+United Kingdom,1 to 50 Employees,1.0,Private,Government Agencies,$25 to $50 million (USD),Other,Data Scientist,405017.5,405017.5,4.1,57.0,5.0,38.0,33.0,22.0,17.0,Pune,No
+Ireland,10000+ Employees,136.0,Public,Manufacturing,$10+ billion (USD),Johnson Controls,Data Scientist,457894.0,457894.0,3.5,64.0,18.0,19.0,40.0,20.0,12.0,Pune,No
+Ireland,10000+ Employees,136.0,Public,Manufacturing,$10+ billion (USD),Johnson Controls,Data Scientist,695484.5,695484.5,3.5,64.0,18.0,19.0,40.0,20.0,12.0,Pune,No
+India,1001 to 5000 Employees,21.0,Private,Information Technology,$10+ billion (USD),Ugam,Data Scientist,1216186.0,1216186.0,3.6,63.0,18.0,19.0,36.0,25.0,10.0,Pune,No
+North Carolina,10000+ Employees,28.0,Public,Information Technology,$2 to $5 billion (USD),Red Hat,Data Scientist,5239795.0,5239795.0,4.4,62.0,23.0,14.0,44.0,25.0,17.0,Pune,No
+India,1001 to 5000 Employees,33.0,Public,Information Technology,$500 million to $1 billion (USD),STL - Sterlite Technologies Limited,Data Scientist,1017885.0,1017885.0,3.9,70.0,11.0,19.0,46.0,19.0,10.0,Pune,No
+India,1001 to 5000 Employees,42.0,Private,Government Agencies,$10+ billion (USD),C-DAC,Data Scientist,399730.0,399730.0,3.7,83.0,3.0,14.0,46.0,32.0,10.0,Pune,No
+California,10000+ Employees,45.0,Public,Information Technology,$10+ billion (USD),Apple,Data Scientist,1472997.0,1472997.0,4.4,65.0,15.0,20.0,56.0,15.0,13.0,Pune,No
+India,501 to 1000 Employees,12.0,Private,Outsource,$10+ billion (USD),Sokrati,Data Scientist,317553.0,317553.0,3.8,49.0,34.0,16.0,51.0,20.0,16.0,Pune,No
+Argentina,10000+ Employees,18.0,Public,Information Technology,$100 to $500 million (USD),Globant,Data Scientist,98502.5,98502.5,4.2,60.0,22.0,18.0,42.0,27.0,18.0,Pune,No
+India,501 to 1000 Employees,24.0,Private,Healthcare Medicine,$10+ billion (USD),Saama Technologies,Data Scientist,911296.0,911296.0,3.8,53.0,35.0,12.0,31.0,18.0,15.0,Pune,No
+India,10000+ Employees,132.0,Public,Manufacturing,$10+ billion (USD),Michelin,Data Scientist,151039.5,151039.5,4.0,71.0,14.0,15.0,35.0,25.0,15.0,Pune,No
+South Carolina,10000+ Employees,34.0,Public,Information Technology,$2 to $5 billion (USD),CompuCom,Data Scientist,2669875.5,2669875.5,3.5,53.0,22.0,24.0,30.0,24.0,19.0,Pune,No
+Netherlands,5001 to 10000 Employees,30.0,Public,Information Technology,$500 million to $1 billion (USD),TomTom,Data Scientist,598698.0,598698.0,4.0,52.0,28.0,21.0,60.0,16.0,8.0,Pune,No
+India,201 to 500 Employees,8.0,Private,Information Technology,$25 to $50 million (USD),Datametica,Data Scientist,225350.5,225350.5,3.6,79.0,17.0,3.0,38.0,26.0,14.0,Pune,No
+Germany,201 to 500 Employees,10.0,Private,Consulting,$1 to $5 million (USD),Innoplexus,Data Scientist,357778.0,357778.0,3.9,58.0,19.0,22.0,33.0,24.0,24.0,Pune,No
+New York,1001 to 5000 Employees,27.0,Private,Information Technology,$100 to $500 million (USD),Cognizant Softvision,Data Scientist,485045.5,485045.5,3.9,57.0,16.0,26.0,39.0,32.0,14.0,Pune,No
+California,201 to 500 Employees,4.0,Private,Information Technology,$100 to $500 million (USD),Aera Technology,Data Scientist,1417390.5,1417390.5,3.8,43.0,51.0,6.0,47.0,25.0,13.0,Pune,No
+Hanover,51 to 200 Employees,11.0,Private,Information Technology,$5 to $10 million (USD),Motifworks,Data Scientist,952302.0,952302.0,3.9,67.0,19.0,14.0,53.0,18.0,12.0,Pune,No
+California,51 to 200 Employees,10.0,Private,Information Technology,$10+ billion (USD),Helpshift,Data Scientist,66630.0,66630.0,3.7,54.0,34.0,12.0,61.0,14.0,11.0,Pune,No
+Florida,51 to 200 Employees,23.0,Private,Consulting,$1 to $2 billion (USD),Tops Office Pros Business Services,Data Scientist,564848.0,564848.0,5.0,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+India,1 to 50 Employees,6.0,Private,Information Technology,Less than $1 million (USD),Cloud Counselage,Data Scientist,126716.0,126716.0,4.4,100.0,50.0,50.0,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+India,51 to 200 Employees,2.0,Private,Information Technology,$25 to $50 million (USD),Apptware,Data Scientist,2025238.5,2025238.5,4.6,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+India,1 to 50 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),GeoSpoc,Data Scientist,101369.5,101369.5,4.6,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+India,501 to 1000 Employees,30.0,Private,Information Technology,$10+ billion (USD),Climate Connect,Data Scientist,774178.0,774178.0,3.8,50.0,50.0,67.0,33.0,21.65818759936407,13.633165829145728,Pune,No
+Morocco,51 to 200 Employees,65.0,Public,Government Agencies,$50 to $100 million (USD),American Student Assistance,Data Scientist,25286.5,25286.5,3.9,47.0,24.0,29.0,63.0,19.0,13.0,Pune,No
+California,1 to 50 Employees,1.0,Private,Transportation,Less than $1 million (USD),Express Analytics,Data Scientist,844135.0,844135.0,4.2,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+California,1 to 50 Employees,1.0,Private,Consulting,$25 to $50 million (USD),Expert Freelancer Inc.,Data Scientist,544800.0,1142503.68,4.2,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+India,1 to 50 Employees,3.0,Private,Information Technology,$25 to $50 million (USD),Automaton AI,Data Scientist,626688.0,626688.0,4.4,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+India,501 to 1000 Employees,30.0,Private,Manufacturing,$10 to $25 million (USD),Shogini Technoarts,Data Scientist,347205.5,347205.5,5.0,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+California,201 to 500 Employees,4.0,Private,Information Technology,$100 to $500 million (USD),Aera Technology,Data Scientist,1046219.0,1046219.0,3.8,43.0,51.0,6.0,47.0,25.0,13.0,Pune,No
+India,501 to 1000 Employees,15.0,Private,Consulting,$25 to $50 million (USD),SG Analytics,Data Scientist,701141.5,701141.5,3.6,59.0,22.0,19.0,32.0,18.0,16.0,Pune,No
+India,51 to 200 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),Maxgen Technologies,Data Scientist,14007.0,14007.0,4.6,57.0,28.0,14.0,64.0,15.0,8.0,Pune,No
+North Carolina,201 to 500 Employees,9.0,Private,Information Technology,$1 to $2 billion (USD),CoreCompete,Data Scientist,2996031.0,2996031.0,4.4,45.0,55.0,36.0,27.0,18.0,13.633165829145728,Pune,No
+Texas,10000+ Employees,95.0,Public,Government Agencies,$10+ billion (USD),Schlumberger,Data Scientist,5067550.0,5067550.0,3.7,73.0,9.0,17.0,51.0,26.0,10.0,Pune,No
+India,10000+ Employees,65.0,Public,Manufacturing,$10+ billion (USD),Mahindra,Data Scientist,231571.0,231571.0,4.0,78.0,9.0,13.0,52.0,14.0,11.0,Pune,No
+India,201 to 500 Employees,8.0,Private,Information Technology,$25 to $50 million (USD),Datametica,Data Scientist,224226.5,224226.5,3.6,79.0,17.0,3.0,38.0,26.0,14.0,Pune,No
+California,51 to 200 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),DemandMatrix,Data Scientist,428146.0,428146.0,4.4,50.0,50.0,67.0,33.0,21.65818759936407,13.633165829145728,Pune,No
+California,1 to 50 Employees,1.0,Private,Transportation,Less than $1 million (USD),Express Analytics,Data Scientist,245508.0,245508.0,4.2,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+Florida,1 to 50 Employees,7.0,Private,Information Technology,$25 to $50 million (USD),Comsense Technologies,Data Scientist,164185.0,164185.0,4.4,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Pune,No
+Ireland,10000+ Employees,32.0,Public,Consulting,$10+ billion (USD),Accenture,Data Scientist,1057950.0,1057950.0,4.0,70.0,13.0,17.0,37.0,29.0,12.0,Pune,No
+India,5001 to 10000 Employees,20.0,Public,Information Technology,$500 million to $1 billion (USD),Zensar Technologies,Data Scientist,1443888.0,1443888.0,3.5,67.0,18.0,15.0,40.0,19.0,13.0,Pune,No
+India,1001 to 5000 Employees,42.0,Private,Banking/Finance,$10+ billion (USD),Bajaj Finance,Data Scientist,2011200.0,2011200.0,3.8,69.0,15.0,16.0,42.0,23.0,19.0,Pune,No
+India,1001 to 5000 Employees,20.0,Private,Banking/Finance,$25 to $50 million (USD),Bajaj Allianz General Insurance Co,Data Scientist,105061.0,105061.0,3.8,77.0,7.0,17.0,34.0,22.0,17.0,Pune,No
+India,1001 to 5000 Employees,42.0,Public,Banking/Finance,$1 to $2 billion (USD),BFS,Data Scientist,703880.0,703880.0,3.6,46.0,23.0,31.0,38.0,23.0,23.0,Pune,No
+India,1 to 50 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),vPhrase,Data Scientist,50547.5,50547.5,3.8,58.0,25.0,17.0,64.0,9.0,9.0,Pune,No
+Florida,51 to 200 Employees,3.0,Private,Information Technology,$5 to $10 million (USD),Blackstraw,Data Scientist,2371465.0,2571465.0,3.9,100.0,50.0,25.0,25.0,21.65818759936407,13.633165829145728,Pune,No
+India,10000+ Employees,40.0,Public,Information Technology,$10+ billion (USD),Infosys,Data Scientist,1019192.0,1019192.0,3.8,77.0,9.0,15.0,55.0,21.0,12.0,Pune,No
+India,201 to 500 Employees,18.0,Private,Film Production & Distribution,$10+ billion (USD),Fresherworld.com,Data Scientist,604527.0,1142503.68,4.1,57.0,15.0,28.0,66.0,18.0,7.0,Pune,No
+Switzerland,10000+ Employees,159.0,Public,Banking/Finance,$10+ billion (USD),UBS,Data Scientist,1339203.0,1339203.0,3.8,60.0,13.0,27.0,56.0,16.0,11.0,Pune,No
+India,10000+ Employees,40.0,Public,Information Technology,$10+ billion (USD),Infosys,Data Scientist,1721398.0,1721398.0,3.8,77.0,9.0,15.0,55.0,21.0,12.0,Pune,No
+India,10000+ Employees,76.0,Public,Information Technology,$5 to $10 billion (USD),Wipro,Data Scientist,1255325.5,1255325.5,3.7,70.0,13.0,17.0,44.0,23.0,11.0,Pune,No
+New York,10000+ Employees,237.0,Public,Banking/Finance,$10+ billion (USD),BNY Mellon,Data Scientist,1637901.0,1637901.0,3.5,65.0,16.0,20.0,44.0,14.0,14.0,Pune,No
+India,1001 to 5000 Employees,42.0,Public,Banking/Finance,$1 to $2 billion (USD),BFS,Data Scientist,2407716.0,2407716.0,3.6,46.0,23.0,31.0,38.0,23.0,23.0,Pune,No
+Singapore,51 to 200 Employees,12.0,Private,Information Technology,$10+ billion (USD),Knorex,Data Scientist,307727.0,307727.0,3.3,36.0,21.0,43.0,83.0,8.0,8.0,Pune,No
+Texas,5001 to 10000 Employees,21.0,Private,Consulting,$500 million to $1 billion (USD),Hitachi Consulting,Data Scientist,1795446.0,1795446.0,3.6,63.0,18.0,20.0,50.0,19.0,11.0,Pune,No
+Illinois,1001 to 5000 Employees,17.0,Private,Consulting,$10+ billion (USD),Mu Sigma,Data Scientist,612783.0,677848.0,3.3,70.0,12.0,19.0,77.0,12.0,5.0,Banglore,No
+India,10000+ Employees,110.0,Public,Information Technology,$10+ billion (USD),IBM,Data Scientist,1106571.0,1106571.0,3.9,69.0,12.0,19.0,43.0,22.0,14.0,Banglore,No
+New York,201 to 500 Employees,6.0,Private,Information Technology,$100 to $500 million (USD),Impact Analytics,Data Scientist,651706.0,723141.0,4.0,48.0,32.0,19.0,38.0,38.0,10.0,Banglore,No
+Ireland,10000+ Employees,32.0,Public,Consulting,$10+ billion (USD),Accenture,Data Scientist,858294.0,867282.0,4.0,70.0,13.0,17.0,37.0,29.0,12.0,Banglore,No
+India,10000+ Employees,40.0,Public,Information Technology,$10+ billion (USD),Infosys,Data Scientist,940606.0,1025449.0,3.8,77.0,9.0,15.0,55.0,21.0,12.0,Banglore,No
+New Joursey,10000+ Employees,27.0,Public,Consulting,$10+ billion (USD),Cognizant Technology Solutions,Data Scientist,975149.0,975149.0,3.7,73.0,13.0,14.0,43.0,23.0,10.0,Banglore,No
+India,501 to 1000 Employees,9.0,Private,Education,$10+ billion (USD),Embibe,Data Scientist,1377597.0,1377597.0,4.1,59.0,37.0,4.0,32.0,19.0,19.0,Banglore,No
+Belgium,10000+ Employees,169.0,Public,Manufacturing,$10+ billion (USD),Anheuser-Busch InBev,Data Scientist,1604779.0,1752025.0,3.6,60.0,19.0,22.0,63.0,22.0,5.0,Banglore,No
+New York,1001 to 5000 Employees,21.0,Private,Consulting,$100 to $500 million (USD),Fractal,Data Scientist,1385702.0,1492500.0,4.0,72.0,19.0,9.0,48.0,20.0,15.0,Banglore,No
+United Kingdom,501 to 1000 Employees,11.0,Private,Outsource,$10+ billion (USD),MiQ,Data Scientist,1559783.0,1660942.0,4.1,41.0,44.0,15.0,32.0,22.0,15.0,Banglore,No
+India,51 to 200 Employees,9.0,Private,Information Technology,$1 to $5 million (USD),Flutura,Data Scientist,741261.0,749778.0,4.4,65.0,17.0,17.0,23.0,23.0,18.0,Banglore,No
+Sweden,10000+ Employees,145.0,Public,Telecommunication/Television,$10+ billion (USD),Ericsson-Worldwide,Data Scientist,1194178.0,1194178.0,4.1,73.0,12.0,16.0,35.0,24.0,16.0,Banglore,No
+North Carolina,1 to 50 Employees,14.0,Private,Information Technology,$5 to $10 million (USD),Fuzzy Logix,Data Scientist,1513208.0,1702702.0,3.6,75.0,25.0,100.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Washington,10000+ Employees,46.0,Public,Information Technology,$10+ billion (USD),Microsoft,Data Scientist,1408364.0,1809359.0,4.4,66.0,13.0,21.0,33.0,30.0,15.0,Banglore,No
+California,10000+ Employees,82.0,Public,Information Technology,$10+ billion (USD),HP Inc.,Data Scientist,1485855.0,1500000.0,4.2,73.0,13.0,14.0,45.0,17.0,15.0,Banglore,No
+France,10000+ Employees,157.0,Public,Banking/Finance,$10+ billion (USD),Société Générale,Data Scientist,1718752.0,1849059.0,3.7,62.0,17.0,21.0,42.0,21.0,11.0,Banglore,No
+California,10000+ Employees,23.0,Public,Information Technology,$10+ billion (USD),Google,Data Scientist,1390200.0,1390200.0,4.5,62.0,15.0,23.0,44.0,22.0,22.0,Banglore,No
+Washington,10000+ Employees,27.0,Public,Information Technology,$10+ billion (USD),Amazon,Data Scientist,1373954.0,1373954.0,4.3,59.0,19.0,23.0,54.0,15.0,12.0,Banglore,No
+India,10000+ Employees,76.0,Public,Information Technology,$5 to $10 billion (USD),Wipro,Data Scientist,758984.0,758984.0,3.7,70.0,13.0,17.0,44.0,23.0,11.0,Banglore,No
+New York,10000+ Employees,171.0,Private,Banking/Finance,$10+ billion (USD),Deloitte,Data Scientist,918398.0,918398.0,3.9,71.0,11.0,18.0,37.0,36.0,11.0,Banglore,No
+India,10000+ Employees,14.0,Private,Information Technology,$5 to $10 billion (USD),Flipkart,Data Scientist,2489491.0,2653150.0,4.2,58.0,26.0,16.0,29.0,18.0,17.0,Banglore,No
+California,10000+ Employees,21.0,Private,Information Technology,$100 to $500 million (USD),[24]7.ai,Data Scientist,1879854.0,1879854.0,4.3,56.0,24.0,20.0,23.0,21.0,16.0,Banglore,No
+Netherlands,10000+ Employees,130.0,Public,Healthcare Medicine,$10+ billion (USD),Philips,Data Scientist,1569745.0,1672823.0,4.0,67.0,16.0,16.0,48.0,16.0,13.0,Banglore,No
+India,1001 to 5000 Employees,27.0,Public,General Merchandise & Superstores,$10+ billion (USD),Walmart,Data Scientist,2509441.0,2950585.0,3.4,63.0,14.0,23.0,70.0,14.0,5.0,Banglore,No
+New York,10000+ Employees,98.0,Public,Information Technology,$5 to $10 billion (USD),Nielsen,Data Scientist,698999.0,698999.0,3.7,65.0,14.0,21.0,46.0,25.0,14.0,Banglore,No
+India,51 to 200 Employees,6.0,Private,Consulting,$25 to $50 million (USD),Thoucentric,Data Scientist,711737.0,731644.0,4.3,57.0,21.0,21.0,40.0,30.0,20.0,Banglore,No
+New York,10000+ Employees,24.0,Public,Information Technology,$2 to $5 billion (USD),Genpact,Data Scientist,954804.0,1015364.0,3.8,66.0,18.0,16.0,24.0,21.0,15.0,Banglore,No
+India,201 to 500 Employees,10.0,Private,Consulting,$10+ billion (USD),Affine,Data Scientist,1099358.0,1099358.0,3.9,55.0,31.0,14.0,42.0,19.0,15.0,Banglore,No
+India,5001 to 10000 Employees,10.0,Private,Information Technology,$10+ billion (USD),Ola,Data Scientist,2200000.0,2200000.0,3.1,47.0,43.0,11.0,23.0,23.0,22.0,Banglore,No
+India,5001 to 10000 Employees,11.0,Private,"Cable, Internet & Telephone Providers",$10+ billion (USD),Jio,Data Scientist,1326575.0,1470941.0,3.7,63.0,17.0,20.0,44.0,18.0,17.0,Banglore,No
+California,10000+ Employees,44.0,Public,Information Technology,$10+ billion (USD),Oracle,Data Scientist,1457006.0,1457006.0,3.7,67.0,15.0,18.0,29.0,27.0,19.0,Banglore,No
+California,51 to 200 Employees,5.0,Private,Information Technology,$25 to $50 million (USD),Noodle.ai,Data Scientist,1627874.0,1627874.0,3.9,47.0,40.0,13.0,64.0,21.0,7.0,Banglore,No
+India,10000+ Employees,70.0,Private,Manufacturing,$100 to $500 million (USD),Robert Bosch India,Data Scientist,1017012.0,1119142.0,4.0,74.0,12.0,14.0,53.0,13.0,10.0,Banglore,No
+North Carolina,10000+ Employees,136.0,Public,Information Technology,$10+ billion (USD),Honeywell,Data Scientist,1416621.0,1416621.0,3.7,64.0,16.0,20.0,39.0,21.0,13.0,Banglore,No
+California,10000+ Employees,6.0,Public,Information Technology,$10+ billion (USD),Hewlett Packard Enterprise | HPE,Data Scientist,2138072.0,2201235.0,4.2,67.0,14.0,19.0,35.0,21.0,18.0,Banglore,No
+California,10000+ Employees,18.0,Private,Information Technology,$5 to $10 billion (USD),LinkedIn,Data Scientist,2280586.0,2481408.0,4.4,53.0,32.0,15.0,38.0,28.0,24.0,Banglore,No
+California,51 to 200 Employees,8.0,Private,Information Technology,$1 to $2 billion (USD),Sigmoid Analytics,Data Scientist,1165620.0,1400000.0,4.0,60.0,30.0,10.0,39.0,25.0,24.0,Banglore,No
+California,51 to 200 Employees,6.0,Private,Information Technology,Less than $1 million (USD),YouPlus,Data Scientist,1357904.0,1357904.0,2.6,63.0,25.0,13.0,50.0,25.0,13.0,Banglore,No
+California,501 to 1000 Employees,8.0,Private,Consulting,$25 to $50 million (USD),Tredence,Data Scientist,1726522.0,1726522.0,3.7,55.0,32.0,13.0,39.0,21.0,13.0,Banglore,No
+Illinois,201 to 500 Employees,8.0,Private,Information Technology,$100 to $500 million (USD),Antuit,Data Scientist,1350000.0,1575000.0,4.3,46.0,38.0,15.0,50.0,17.0,17.0,Banglore,No
+New Joursey,201 to 500 Employees,11.0,Private,Information Technology,$10 to $25 million (USD),Gramener,Data Scientist,844735.0,844735.0,4.5,62.0,23.0,15.0,30.0,26.0,22.0,Banglore,No
+California,10000+ Employees,53.0,Public,Information Technology,$10+ billion (USD),Intel Corporation,Data Scientist,1154143.0,1154143.0,4.2,73.0,8.0,19.0,38.0,25.0,20.0,Banglore,No
+India,51 to 200 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),SigTuple,Data Scientist,1978844.0,2308652.0,2.9,33.0,63.0,3.0,43.0,17.0,13.0,Banglore,No
+New York,10000+ Employees,209.0,Public,Banking/Finance,$10+ billion (USD),Citi,Data Scientist,1850043.0,1850043.0,3.9,64.0,13.0,23.0,49.0,22.0,10.0,Banglore,No
+California,1001 to 5000 Employees,7.0,Private,Information Technology,$100 to $500 million (USD),Brillio,Data Scientist,1398061.0,1398061.0,3.6,51.0,35.0,15.0,27.0,27.0,20.0,Banglore,No
+India,10000+ Employees,7.0,Private,Information Technology,$10+ billion (USD),Swiggy,Data Scientist,3040747.0,3040747.0,4.0,42.0,45.0,12.0,26.0,23.0,18.0,Banglore,No
+Switzerland,10000+ Employees,138.0,Public,Government Agencies,$10+ billion (USD),ABB,Data Scientist,842174.0,842174.0,3.8,69.0,13.0,17.0,47.0,19.0,11.0,Banglore,No
+India,1001 to 5000 Employees,8.0,Private,Education,$10 to $25 million (USD),Great Learning,Data Scientist,874584.0,874584.0,4.2,50.0,36.0,14.0,29.0,23.0,23.0,Banglore,No
+Finland,10000+ Employees,156.0,Public,Telecommunication/Television,$10+ billion (USD),Nokia,Data Scientist,400442.0,400442.0,4.1,75.0,8.0,17.0,34.0,22.0,19.0,Banglore,No
+California,1001 to 5000 Employees,42.0,Private,Information Technology,$10+ billion (USD),Walmart Labs,Data Scientist,2193951.0,2193951.0,3.8,48.0,36.0,16.0,27.0,21.0,20.0,Banglore,No
+California,1001 to 5000 Employees,65.0,Public,Information Technology,$500 million to $1 billion (USD),FICO,Data Scientist,1540275.0,1553585.0,3.9,70.0,13.0,16.0,34.0,26.0,19.0,Banglore,No
+United Kingdom,10000+ Employees,32.0,Private,Banking/Finance,$10+ billion (USD),EY,Data Scientist,714628.0,714628.0,3.8,73.0,9.0,18.0,36.0,36.0,13.0,Banglore,No
+New York,10000+ Employees,222.0,Public,Banking/Finance,$10+ billion (USD),J.P. Morgan,Data Scientist,1307420.0,1412667.0,4.0,64.0,12.0,23.0,56.0,19.0,9.0,Banglore,No
+India,10000+ Employees,59.0,Public,General Merchandise & Superstores,$10+ billion (USD),Target,Data Scientist,1616955.0,1708331.0,4.3,67.0,13.0,21.0,64.0,12.0,10.0,Banglore,No
+California,10000+ Employees,54.0,Public,Manufacturing,$10+ billion (USD),Applied Materials,Data Scientist,1232834.0,1297834.0,4.0,62.0,13.0,25.0,33.0,24.0,18.0,Banglore,No
+India,1 to 50 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),FlyNava Technologies,Data Scientist,712895.0,712895.0,3.7,40.0,40.0,20.0,67.0,33.0,13.633165829145728,Banglore,No
+India,501 to 1000 Employees,29.0,Public,Information Technology,$25 to $50 million (USD),Subex,Data Scientist,1147214.0,1147214.0,3.5,71.0,13.0,16.0,29.0,25.0,17.0,Banglore,No
+India,1001 to 5000 Employees,14.0,Private,Information Technology,$10+ billion (USD),Myntra,Data Scientist,1559044.0,1569249.0,4.1,53.0,31.0,15.0,25.0,20.0,18.0,Banglore,No
+California,1001 to 5000 Employees,23.0,Private,Information Technology,$100 to $500 million (USD),Bristlecone,Data Scientist,75225.0,79763.0,3.9,58.0,26.0,16.0,21.0,21.0,19.0,Banglore,No
+Texas,10000+ Employees,37.0,Public,Information Technology,$10+ billion (USD),Dell Technologies,Data Scientist,2037358.0,2037358.0,4.2,68.0,14.0,18.0,32.0,21.0,19.0,Banglore,No
+Germany,10000+ Employees,49.0,Public,Information Technology,$10+ billion (USD),SAP,Data Scientist,1738110.0,1827052.0,4.5,72.0,14.0,14.0,51.0,20.0,13.0,Banglore,No
+California,10000+ Employees,39.0,Public,Information Technology,$2 to $5 billion (USD),Adobe,Data Scientist,2821785.0,2821785.0,4.4,61.0,23.0,16.0,29.0,24.0,20.0,Banglore,No
+India,51 to 200 Employees,8.0,Private,Information Technology,$2 to $5 billion (USD),Knowledge Lens,Data Scientist,47723.0,47723.0,4.1,56.0,25.0,19.0,47.0,20.0,13.0,Banglore,No
+California,10000+ Employees,37.0,Private,Information Technology,$10+ billion (USD),Cisco Systems,Data Scientist,1476701.0,1476701.0,4.4,69.0,11.0,19.0,32.0,30.0,18.0,Banglore,No
+Michigan,5001 to 10000 Employees,25.0,Private,Information Technology,$100 to $500 million (USD),Apexon,Data Scientist,904075.0,904075.0,4.4,77.0,17.0,5.0,34.0,30.0,10.0,Banglore,No
+Indonesia,1001 to 5000 Employees,11.0,Private,Transportation,$10+ billion (USD),Gojek,Data Scientist,2364379.0,2299841.0,4.2,37.0,46.0,16.0,44.0,22.0,18.0,Banglore,No
+India,10000+ Employees,29.0,Public,Information Technology,$1 to $2 billion (USD),Mphasis,Data Scientist,1044854.5,859539.0,3.6,69.0,15.0,16.0,35.0,17.0,15.0,Banglore,No
+India,1001 to 5000 Employees,21.0,Private,Consulting,$100 to $500 million (USD),Course5 Intelligence,Data Scientist,951524.5,806457.0,3.4,77.0,16.0,6.0,43.0,21.0,14.0,Banglore,No
+India,10000+ Employees,65.0,Public,Telecommunication/Television,$10+ billion (USD),Bharti Airtel,Data Scientist,1627522.0,1883478.0,3.9,67.0,17.0,16.0,35.0,20.0,15.0,Banglore,No
+Minnesota,10000+ Employees,44.0,Public,Healthcare Medicine,$10+ billion (USD),UnitedHealth Group,Data Scientist,7161020.5,1694620.0,3.6,59.0,21.0,20.0,62.0,10.0,9.0,Banglore,No
+India,501 to 1000 Employees,17.0,Private,Information Technology,$50 to $100 million (USD),Manthan,Data Scientist,1561406.5,1226107.0,4.2,63.0,24.0,13.0,36.0,25.0,18.0,Banglore,No
+Germany,10000+ Employees,135.0,Private,Information Technology,$10+ billion (USD),Robert Bosch,Data Scientist,1317606.0,1153717.0,4.2,75.0,9.0,16.0,49.0,24.0,9.0,Banglore,No
+Michigan,1001 to 5000 Employees,9.0,Private,Information Technology,$10+ billion (USD),Altimetrik,Data Scientist,484906.5,550000.0,4.1,49.0,40.0,11.0,33.0,23.0,23.0,Banglore,No
+India,1 to 50 Employees,5.0,Private,Information Technology,$25 to $50 million (USD),Artificial Learning Systems,Data Scientist,1119202.5,1099358.0,2.7,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,1 to 50 Employees,5.0,Private,Consulting,$25 to $50 million (USD),NeenOpal,Data Scientist,501132.5,405433.0,4.9,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+United Kingdom,10000+ Employees,115.0,Public,Government Agencies,$10+ billion (USD),Rolls-Royce,Data Scientist,1336121.0,1326575.0,3.4,76.0,9.0,15.0,73.0,14.0,4.0,Banglore,No
+California,10000+ Employees,23.0,Public,Information Technology,$5 to $10 billion (USD),VMware,Data Scientist,1665051.0,1734752.0,4.3,61.0,23.0,16.0,33.0,21.0,21.0,Banglore,No
+India,51 to 200 Employees,6.0,Private,Education,$25 to $50 million (USD),INSOFE,Data Scientist,711657.0,663288.0,3.4,100.0,50.0,50.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,1 to 50 Employees,4.0,Private,Information Technology,Less than $1 million (USD),Artivatic Data Labs,Data Scientist,612581.5,516960.0,2.3,29.0,47.0,24.0,71.0,14.0,7.0,Banglore,No
+New York,10000+ Employees,171.0,Public,Banking/Finance,$10+ billion (USD),American Express,Data Scientist,1730427.0,1789620.0,4.2,64.0,18.0,18.0,49.0,17.0,12.0,Banglore,No
+India,10000+ Employees,178.0,Public,Manufacturing,$10+ billion (USD),Siemens,Data Scientist,963037.5,1046377.0,4.1,67.0,14.0,19.0,46.0,20.0,11.0,Banglore,No
+India,10000+ Employees,28.0,Private,Banking/Finance,$10+ billion (USD),Axis Bank,Data Scientist,837365.5,1145245.0,3.5,70.0,11.0,20.0,36.0,30.0,13.0,Banglore,No
+Ohio,10000+ Employees,22.0,Private,Transportation,$5 to $10 billion (USD),First Student,Data Scientist,30000.0,33333.0,4.1,62.0,8.0,30.0,36.0,36.0,12.0,Banglore,No
+India,1 to 50 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),Spoonshot,Data Scientist,1760268.5,1579077.0,5.0,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+California,51 to 200 Employees,11.0,Private,Information Technology,$10+ billion (USD),Bidgely,Data Scientist,1568110.0,1400000.0,3.4,57.0,31.0,12.0,25.0,23.0,20.0,Banglore,No
+United Arab Emirates,10000+ Employees,48.0,Private,Manufacturing,$10+ billion (USD),Landmark Group,Data Scientist,1543358.0,1569565.0,3.7,56.0,25.0,19.0,29.0,23.0,17.0,Banglore,No
+Texas,10000+ Employees,65.0,Public,Government Agencies,$5 to $10 billion (USD),Baker Hughes,Data Scientist,890000.0,1539101.0,3.7,60.0,16.0,23.0,75.0,9.0,6.0,Banglore,No
+Virginia,501 to 1000 Employees,23.0,Private,Information Technology,$10+ billion (USD),Idexcel,Data Scientist,463939.0,459199.0,3.8,55.0,41.0,5.0,39.0,18.0,15.0,Banglore,No
+New Joursey,51 to 200 Employees,13.0,Private,Outsource,$10 to $25 million (USD),iQuanti,Data Scientist,1670352.0,2000000.0,3.6,65.0,14.0,22.0,22.0,22.0,19.0,Banglore,No
+California,51 to 200 Employees,4.0,Private,Information Technology,$1 to $5 million (USD),Draup,Data Scientist,1718752.5,1817154.0,4.3,63.0,25.0,13.0,50.0,13.0,13.0,Banglore,No
+India,201 to 500 Employees,7.0,Private,Banking/Finance,$100 to $500 million (USD),Money View,Data Scientist,1597472.5,1530664.0,4.4,56.0,38.0,6.0,50.0,29.0,14.0,Banglore,No
+India,10000+ Employees,65.0,Private,Banking/Finance,$10+ billion (USD),HDFC Standard Life Insurance,Data Scientist,1874852.0,1216299.0,3.8,73.0,8.0,19.0,28.0,26.0,13.0,Banglore,No
+Singapore,201 to 500 Employees,6.0,Private,Information Technology,$100 to $500 million (USD),AntWorks,Data Scientist,10988249.5,1326575.0,3.3,50.0,50.0,29.0,29.0,29.0,13.633165829145728,Banglore,No
+Minnesota,501 to 1000 Employees,30.0,Public,Healthcare Medicine,$10+ billion (USD),Optum,Data Scientist,1803328.5,1600000.0,3.7,66.0,19.0,15.0,37.0,32.0,11.0,Banglore,No
+India,51 to 200 Employees,7.0,Private,Information Technology,$5 to $10 million (USD),Aptus Data Labs,Data Scientist,891966.0,1046377.0,3.8,43.0,29.0,29.0,71.0,14.0,14.0,Banglore,No
+India,1 to 50 Employees,6.0,Private,Information Technology,Less than $1 million (USD),Reckonsys,Data Scientist,109458.5,109458.5,4.6,50.0,50.0,100.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+California,5001 to 10000 Employees,25.0,Public,Telecommunication/Television,$2 to $5 billion (USD),Juniper Networks,Data Scientist,2533488.0,2533488.0,3.9,65.0,18.0,17.0,35.0,24.0,16.0,Banglore,No
+Ohio,1001 to 5000 Employees,104.0,Private,Government Agencies,$25 to $50 million (USD),GE Aviation,Data Scientist,1416543.5,1416543.5,3.7,74.0,9.0,17.0,42.0,34.0,9.0,Banglore,No
+India,1 to 50 Employees,4.0,Private,Information Technology,$25 to $50 million (USD),SwitchOn,Data Scientist,689069.0,689069.0,4.7,67.0,33.0,67.0,33.0,21.65818759936407,13.633165829145728,Banglore,No
+Virginia,1001 to 5000 Employees,25.0,Private,Information Technology,$500 million to $1 billion (USD),Neustar,Data Scientist,1823284.5,1823284.5,4.0,61.0,30.0,9.0,34.0,26.0,18.0,Banglore,No
+India,5001 to 10000 Employees,34.0,Public,Information Technology,$25 to $50 million (USD),Datamatics Global Services,Data Scientist,1221744.0,1221744.0,3.3,49.0,29.0,22.0,34.0,16.0,13.0,Banglore,No
+India,1 to 50 Employees,4.0,Private,Information Technology,$25 to $50 million (USD),Sumyag,Data Scientist,62560.5,62560.5,4.5,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Luxembourg,10000+ Employees,2.0,Public,Outsource,$10+ billion (USD),Majorel,Data Scientist,111090.5,111090.5,3.4,68.0,12.0,19.0,68.0,15.0,7.0,Banglore,No
+Morocco,10000+ Employees,129.0,Public,Manufacturing,$10+ billion (USD),GE,Data Scientist,1061205.0,1061205.0,3.9,70.0,10.0,21.0,48.0,25.0,10.0,Banglore,No
+India,1 to 50 Employees,4.0,Private,Information Technology,$25 to $50 million (USD),Sumyag,Data Scientist,348232.0,348232.0,4.5,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Hanover,1001 to 5000 Employees,38.0,Private,Outsource,$2 to $5 billion (USD),TEKsystems,Data Scientist,1562355.0,1562355.0,4.2,57.0,23.0,20.0,30.0,27.0,15.0,Banglore,No
+New Joursey,1001 to 5000 Employees,25.0,Private,Information Technology,$100 to $500 million (USD),Marlabs,Data Scientist,1158198.38,1142503.68,3.9,55.0,15.0,29.0,40.0,26.0,11.0,Banglore,No
+India,1001 to 5000 Employees,6.0,Private,Education,$10 to $25 million (USD),upGrad,Data Scientist,1943978.0,1943978.0,3.2,57.0,28.0,15.0,43.0,22.0,18.0,Banglore,No
+New Joursey,51 to 200 Employees,6.0,Private,Consulting,$5 to $10 million (USD),Analytical Wizards,Data Scientist,554609.5,554609.5,4.8,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+California,51 to 200 Employees,3.0,Private,Information Technology,$25 to $50 million (USD),Hypersonix (CA),Data Scientist,3074279.0,3074279.0,3.5,100.0,50.0,50.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Netherlands,10000+ Employees,34.0,Private,Consulting,$1 to $2 billion (USD),KPMG,Data Scientist,856732.0,856732.0,3.8,71.0,10.0,19.0,48.0,28.0,10.0,Banglore,No
+India,1001 to 5000 Employees,25.0,Private,Information Technology,$100 to $500 million (USD),Mercedes-Benz Research and Development India,Data Scientist,1318956.0,1318956.0,3.6,58.0,27.0,16.0,32.0,20.0,15.0,Banglore,No
+India,10000+ Employees,110.0,Public,Information Technology,$10+ billion (USD),IBM,Data Scientist,342828.0,342828.0,3.9,69.0,12.0,19.0,43.0,22.0,14.0,Banglore,No
+India,1001 to 5000 Employees,20.0,Private,Information Technology,$5 to $10 million (USD),Molecular Connections,Data Scientist,41946.0,41946.0,3.5,35.0,32.0,32.0,48.0,14.0,14.0,Banglore,No
+California,5001 to 10000 Employees,19.0,Public,Information Technology,$2 to $5 billion (USD),Aruba Networks,Data Scientist,1485894.0,1485894.0,4.1,54.0,36.0,10.0,30.0,21.0,20.0,Banglore,No
+India,201 to 500 Employees,15.0,Private,Information Technology,$10+ billion (USD),Head Digital Works,Data Scientist,1337038.0,1337038.0,4.5,57.0,43.0,54.0,23.0,8.0,13.633165829145728,Banglore,No
+Missouri,1 to 50 Employees,74.0,Private,Telecommunication/Television,$10+ billion (USD),TCS,Data Scientist,1309745.5,1309745.5,4.0,72.0,9.0,19.0,49.0,33.0,5.0,Banglore,No
+New York,51 to 200 Employees,11.0,Private,Healthcare Medicine,$10 to $25 million (USD),Prognos Health,Data Scientist,130192.5,130192.5,3.3,50.0,50.0,100.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+United Kingdom,10000+ Employees,149.0,Public,Manufacturing,$10+ billion (USD),Unilever,Data Scientist,1683826.5,1683826.5,4.2,64.0,12.0,23.0,70.0,13.0,5.0,Banglore,No
+Pennsylvania,10000+ Employees,135.0,Public,Information Technology,$2 to $5 billion (USD),Unisys,Data Scientist,1096495.0,1096495.0,3.6,67.0,16.0,17.0,27.0,21.0,18.0,Banglore,No
+California,501 to 1000 Employees,10.0,Private,Consulting,$10 to $25 million (USD),Tiger Analytics,Data Scientist,624953.5,624953.5,4.4,54.0,40.0,6.0,44.0,27.0,13.0,Banglore,No
+Illinois,5001 to 10000 Employees,129.0,Private,Healthcare Medicine,$10+ billion (USD),GE Healthcare,Data Scientist,1158198.38,1142503.68,4.0,65.0,17.0,18.0,43.0,18.0,15.0,Banglore,No
+India,1 to 50 Employees,3.0,Private,Information Technology,$25 to $50 million (USD),Terra Economics and Analytics Lab,Data Scientist,752900.5,752900.5,4.9,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,51 to 200 Employees,9.0,Private,Information Technology,$2 to $5 billion (USD),Data Semantics,Data Scientist,1322469.0,1322469.0,3.8,44.0,56.0,38.0,25.0,25.0,13.633165829145728,Banglore,No
+California,501 to 1000 Employees,17.0,Private,Information Technology,$50 to $100 million (USD),Netenrich Inc.,Data Scientist,1146227.5,1142503.68,3.9,53.0,38.0,9.0,24.0,24.0,17.0,Banglore,No
+India,51 to 200 Employees,3.0,Private,Information Technology,$25 to $50 million (USD),SalesKen,Data Scientist,1023370.5,1023370.5,4.2,13.0,63.0,25.0,71.0,14.0,14.0,Banglore,No
+Germany,51 to 200 Employees,7.0,Private,Information Technology,$25 to $50 million (USD),Zeotap,Data Scientist,887812.0,887812.0,3.9,33.0,33.0,33.0,70.0,10.0,10.0,Banglore,No
+India,201 to 500 Employees,12.0,Private,Consulting,$10+ billion (USD),Cartesian Consulting,Data Scientist,932585.5,932585.5,3.1,67.0,17.0,17.0,65.0,24.0,6.0,Banglore,No
+India,1001 to 5000 Employees,35.0,Public,Information Technology,$100 to $500 million (USD),Sonata Software,Data Scientist,621418.0,621418.0,3.7,64.0,20.0,16.0,46.0,16.0,12.0,Banglore,No
+Illinois,10000+ Employees,105.0,Public,Government Agencies,$10+ billion (USD),Boeing,Data Scientist,2226582.0,2226582.0,3.8,67.0,11.0,22.0,61.0,18.0,6.0,Banglore,No
+California,1 to 50 Employees,6.0,Public,Information Technology,$1 to $5 million (USD),FOKAL,Data Scientist,1087008.5,1087008.5,4.3,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Illinois,10000+ Employees,96.0,Public,Manufacturing,$10+ billion (USD),Caterpillar,Data Scientist,1203581.0,1203581.0,3.9,71.0,8.0,21.0,36.0,34.0,8.0,Banglore,No
+Denmark,10000+ Employees,93.0,Private,Transportation,$10+ billion (USD),MAERSK,Data Scientist,2113811.5,2113811.5,4.0,61.0,20.0,19.0,56.0,11.0,10.0,Banglore,No
+Missouri,10000+ Employees,42.0,Public,Information Technology,$5 to $10 billion (USD),Cerner,Data Scientist,1394219.0,1394219.0,3.8,77.0,9.0,14.0,47.0,21.0,15.0,Banglore,No
+India,1001 to 5000 Employees,22.0,Private,Information Technology,$50 to $100 million (USD),Comviva,Data Scientist,67224.5,67224.5,3.5,67.0,15.0,18.0,65.0,10.0,9.0,Banglore,No
+Washington,10000+ Employees,46.0,Public,Information Technology,$10+ billion (USD),Microsoft,Data Scientist,978127.0,978127.0,4.4,66.0,13.0,21.0,33.0,30.0,15.0,Banglore,No
+India,51 to 200 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),Locus,Data Scientist,2430625.5,2430625.5,4.5,38.0,51.0,11.0,55.0,21.0,18.0,Banglore,No
+Texas,10000+ Employees,95.0,Public,Government Agencies,$10+ billion (USD),Schlumberger,Data Scientist,1066645.5,1066645.5,3.7,73.0,9.0,17.0,51.0,26.0,10.0,Banglore,No
+India,1001 to 5000 Employees,15.0,Private,Information Technology,$10+ billion (USD),MagicBricks,Data Scientist,1668698.5,1668698.5,4.2,49.0,41.0,10.0,35.0,18.0,18.0,Banglore,No
+India,1 to 50 Employees,1.0,Private,Information Technology,$25 to $50 million (USD),Alackrity Consols,Data Scientist,393251.0,393251.0,3.7,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,5001 to 10000 Employees,63.0,Public,Government Agencies,$1 to $2 billion (USD),Defence Research & Development Organisation,Data Scientist,346687.5,346687.5,4.3,77.0,3.0,19.0,42.0,25.0,11.0,Banglore,No
+North Carolina,10000+ Employees,136.0,Public,Information Technology,$10+ billion (USD),Honeywell,Data Scientist,852784.0,852784.0,3.7,64.0,16.0,20.0,39.0,21.0,13.0,Banglore,No
+India,1001 to 5000 Employees,21.0,Public,Information Technology,$100 to $500 million (USD),MakeMyTrip,Data Scientist,1393158.0,1393158.0,4.3,49.0,38.0,13.0,24.0,22.0,20.0,Banglore,No
+Illinois,1001 to 5000 Employees,22.0,Public,Information Technology,$100 to $500 million (USD),Yodlee,Data Scientist,463586.0,463586.0,3.6,59.0,24.0,16.0,38.0,18.0,16.0,Banglore,No
+Singapore,201 to 500 Employees,16.0,Private,Information Technology,$10+ billion (USD),Affle,Data Scientist,908269.5,908269.5,4.0,35.0,41.0,24.0,50.0,21.0,14.0,Banglore,No
+India,1 to 50 Employees,1.0,Private,Banking/Finance,$25 to $50 million (USD),HDFC Standard Life,Data Scientist,816744.5,816744.5,4.0,43.0,14.0,43.0,43.0,29.0,14.0,Banglore,No
+Ohio,51 to 200 Employees,26.0,Private,Outsource,$1 to $2 billion (USD),K & K Technical Group,Data Scientist,208235.0,208235.0,3.6,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Texas,10000+ Employees,151.0,Public,Government Agencies,$10+ billion (USD),ExxonMobil,Data Scientist,2790630.0,2790630.0,3.4,73.0,7.0,20.0,46.0,36.0,6.0,Banglore,No
+New Joursey,10000+ Employees,27.0,Public,Consulting,$10+ billion (USD),Cognizant Technology Solutions,Data Scientist,412766.5,412766.5,3.7,73.0,13.0,14.0,43.0,23.0,10.0,Banglore,No
+Malaysia,10000+ Employees,65.0,Public,Banking/Finance,$10+ billion (USD),Maybank,Data Scientist,665021.5,665021.5,3.7,60.0,17.0,23.0,48.0,16.0,15.0,Banglore,No
+India,51 to 200 Employees,14.0,Private,Information Technology,$10+ billion (USD),Raja Software Labs,Data Scientist,524690.0,524690.0,3.9,54.0,25.0,21.0,38.0,35.0,6.0,Banglore,No
+Ireland,10000+ Employees,32.0,Public,Consulting,$10+ billion (USD),Accenture,Data Scientist,858294.0,867282.0,4.0,70.0,13.0,17.0,37.0,29.0,12.0,Banglore,No
+France,10000+ Employees,157.0,Public,Banking/Finance,$10+ billion (USD),Société Générale,Data Scientist,1718752.0,1849059.0,3.7,62.0,17.0,21.0,42.0,21.0,11.0,Banglore,No
+India,1 to 50 Employees,3.0,Private,Information Technology,$25 to $50 million (USD),Yottaasys,Data Scientist,1448376.5,1448376.5,3.6,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Minnesota,10000+ Employees,65.0,Public,Healthcare Medicine,$10+ billion (USD),UnitedHealthCare,Data Scientist,802576.0,802576.0,3.6,69.0,13.0,18.0,68.0,13.0,10.0,Banglore,No
+Virginia,1 to 50 Employees,1.0,Public,Information Technology,$1 to $5 million (USD),Alfonso & Associates Consulting,Data Scientist,3440334.5,3440334.5,4.2,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Minnesota,10000+ Employees,65.0,Public,Healthcare Medicine,$10+ billion (USD),UnitedHealthCare,Data Scientist,804632.0,804632.0,3.6,69.0,13.0,18.0,68.0,13.0,10.0,Banglore,No
+Virginia,1 to 50 Employees,1.0,Public,Information Technology,$1 to $5 million (USD),Alfonso & Associates Consulting,Data Scientist,3449652.5,3449652.5,4.2,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+California,201 to 500 Employees,7.0,Private,Information Technology,$100 to $500 million (USD),Postman,Data Scientist,1318410.0,1318410.0,4.4,44.0,39.0,17.0,64.0,16.0,8.0,Banglore,No
+Brazil,51 to 200 Employees,21.0,Private,Information Technology,$1 to $2 billion (USD),Vsoft,Data Scientist,453958.0,453958.0,4.4,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Netherlands,10000+ Employees,34.0,Private,Consulting,$1 to $2 billion (USD),KPMG,Data Scientist,223724.0,223724.0,3.8,71.0,10.0,19.0,48.0,28.0,10.0,Banglore,No
+Netherlands,10000+ Employees,130.0,Public,Manufacturing,$5 to $10 billion (USD),Signify,Data Scientist,985801.0,985801.0,3.6,74.0,15.0,11.0,61.0,15.0,13.0,Banglore,No
+India,51 to 200 Employees,4.0,Private,Information Technology,$25 to $50 million (USD),dhiOmics Analytics Solutions,Data Scientist,318781.0,318781.0,4.6,92.0,8.0,67.0,25.0,8.0,13.633165829145728,Banglore,No
+Georgia,501 to 1000 Employees,12.0,Private,Banking/Finance,$100 to $500 million (USD),Kabbage,Data Scientist,394178.0,394178.0,3.8,76.0,17.0,6.0,38.0,33.0,16.0,Banglore,No
+Illinois,1 to 50 Employees,1.0,Private,Information Technology,$25 to $50 million (USD),Acies,Data Scientist,404822.0,404822.0,4.1,69.0,15.0,15.0,67.0,25.0,8.0,Banglore,No
+North Carolina,1 to 50 Employees,13.0,Private,Information Technology,$1 to $5 million (USD),dataZen Engineering,Data Scientist,14907.0,14907.0,4.3,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,1 to 50 Employees,6.0,Private,Information Technology,$25 to $50 million (USD),Loyalytics Consulting,Data Scientist,839478.5,839478.5,3.8,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,51 to 200 Employees,10.0,Private,Information Technology,$10+ billion (USD),Trinity Mobility,Data Scientist,618738.5,618738.5,4.0,73.0,20.0,7.0,33.0,27.0,13.0,Banglore,No
+Nevada,201 to 500 Employees,23.0,Private,Banking/Finance,$25 to $50 million (USD),Dollar Loan Center,Data Scientist,993880.0,993880.0,3.6,75.0,19.0,6.0,75.0,19.0,6.0,Banglore,No
+India,1 to 50 Employees,1.0,Private,Information Technology,$25 to $50 million (USD),Gradatim,Data Scientist,696948.0,696948.0,3.4,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,10000+ Employees,178.0,Public,Manufacturing,$10+ billion (USD),Siemens,Data Scientist,482359.5,482359.5,4.1,67.0,14.0,19.0,46.0,20.0,11.0,Banglore,No
+California,1 to 50 Employees,1.0,Private,Manufacturing,Less than $1 million (USD),Losch Engineering,Data Scientist,1189485.5,1189485.5,5.0,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,1001 to 5000 Employees,44.0,Public,Banking/Finance,$10+ billion (USD),Hdfc,Data Scientist,63230.0,40543.0,3.7,64.0,8.0,28.0,54.0,13.0,11.0,Banglore,No
+India,1001 to 5000 Employees,6.0,Private,Information Technology,$10+ billion (USD),JoulestoWatts Business Solutions,Data Scientist,794599.5,794599.5,3.3,53.0,37.0,11.0,31.0,25.0,13.0,Banglore,No
+Denmark,10000+ Employees,150.0,Public,Banking/Finance,$10+ billion (USD),Danske Bank,Data Scientist,1418547.0,1418547.0,3.8,66.0,22.0,12.0,61.0,11.0,11.0,Banglore,No
+Arizona,1001 to 5000 Employees,18.0,Private,Information Technology,$10+ billion (USD),Encora,Data Scientist,1674044.0,1674044.0,4.3,48.0,29.0,24.0,44.0,38.0,19.0,Banglore,No
+California,10000+ Employees,37.0,Private,Information Technology,$10+ billion (USD),Cisco Systems,Data Scientist,1476701.0,1476701.0,4.4,69.0,11.0,19.0,32.0,30.0,18.0,Banglore,No
+India,51 to 200 Employees,6.0,Private,Healthcare Medicine,$25 to $50 million (USD),Tricog Health Services,Data Scientist,724444.0,724444.0,4.3,33.0,33.0,33.0,100.0,21.65818759936407,13.633165829145728,Banglore,No
+Texas,501 to 1000 Employees,35.0,Private,Information Technology,$10+ billion (USD),Symphony RetailAI,Data Scientist,1926190.0,1926190.0,4.4,58.0,32.0,11.0,33.0,28.0,22.0,Banglore,No
+South Korea,10000+ Employees,52.0,Public,Information Technology,$10+ billion (USD),Samsung Electronics,Data Scientist,2404662.5,2404662.5,3.7,60.0,16.0,24.0,39.0,22.0,14.0,Banglore,No
+India,1001 to 5000 Employees,11.0,Private,Information Technology,$10+ billion (USD),Paytm,Data Scientist,729369.0,729369.0,3.5,47.0,39.0,15.0,26.0,23.0,23.0,Banglore,No
+India,5001 to 10000 Employees,53.0,Private,Banking/Finance,$10+ billion (USD),Citicorp Services India,Data Scientist,1046745.5,1046745.0,3.8,58.0,23.0,19.0,48.0,24.0,13.0,Banglore,No
+Washington,51 to 200 Employees,12.0,Private,Consulting,$10+ billion (USD),The Alacer Group,Data Scientist,1526778.0,1526778.0,4.5,50.0,25.0,25.0,67.0,33.0,13.633165829145728,Banglore,No
+India,5001 to 10000 Employees,186.0,Public,Banking/Finance,$10+ billion (USD),ANZ Bank,Data Scientist,1469158.0,1469158.0,4.1,66.0,15.0,19.0,48.0,16.0,14.0,Banglore,No
+Ireland,10000+ Employees,136.0,Public,Manufacturing,$10+ billion (USD),Johnson Controls,Data Scientist,1203432.0,1203432.0,3.5,64.0,18.0,19.0,40.0,20.0,12.0,Banglore,No
+New Joursey,1001 to 5000 Employees,180.0,Public,Information Technology,$1 to $2 billion (USD),Dun & Bradstreet,Data Scientist,120390.0,120390.0,3.5,58.0,25.0,18.0,38.0,23.0,16.0,Banglore,No
+India,51 to 200 Employees,20.0,Private,Information Technology,$10+ billion (USD),D2K Technologies India,Data Scientist,212187.5,212187.5,2.8,20.0,60.0,20.0,75.0,25.0,13.633165829145728,Banglore,No
+Illinois,5001 to 10000 Employees,137.0,Public,Manufacturing,$1 to $2 billion (USD),JBT,Data Scientist,102173.5,102173.5,3.8,64.0,18.0,18.0,55.0,16.0,11.0,Banglore,No
+Morocco,10000+ Employees,58.0,Private,Consulting,$5 to $10 billion (USD),Boston Consulting Group,Data Scientist,1676455.5,2000000.0,4.1,70.0,12.0,18.0,50.0,26.0,11.0,Banglore,No
+California,10000+ Employees,18.0,Private,Information Technology,$5 to $10 billion (USD),LinkedIn,Data Scientist,642263.0,642263.0,4.4,53.0,32.0,15.0,38.0,28.0,24.0,Banglore,No
+California,1001 to 5000 Employees,42.0,Private,Information Technology,$10+ billion (USD),Walmart Labs,Data Scientist,656884.0,656884.0,3.8,48.0,36.0,16.0,27.0,21.0,20.0,Banglore,No
+India,1 to 50 Employees,5.0,Private,Consulting,$25 to $50 million (USD),NeenOpal,Data Scientist,184906.5,184906.5,4.9,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Singapore,1001 to 5000 Employees,15.0,Private,Information Technology,$10 to $25 million (USD),Apar Technologies,Data Scientist,1705832.5,1705832.5,4.2,47.0,53.0,29.0,14.0,14.0,13.633165829145728,Banglore,No
+India,51 to 200 Employees,11.0,Private,Information Technology,$10+ billion (USD),WyzMindz,Data Scientist,410108.5,410108.5,3.5,100.0,40.0,20.0,20.0,21.65818759936407,13.633165829145728,Banglore,No
+Canada,1 to 50 Employees,3.0,Private,Information Technology,$25 to $50 million (USD),Algo8.ai,Data Scientist,142865.5,1142503.68,3.8,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,201 to 500 Employees,12.0,Private,Information Technology,Less than $1 million (USD),GlobusSoft,Data Scientist,20165.0,20165.0,4.5,63.0,23.0,14.0,27.0,27.0,18.0,Banglore,No
+India,501 to 1000 Employees,14.0,Private,Information Technology,$10+ billion (USD),InMobi,Data Scientist,3202389.0,3202389.0,4.1,47.0,38.0,16.0,36.0,21.0,18.0,Banglore,No
+California,501 to 1000 Employees,5.0,Private,Information Technology,$100 to $500 million (USD),Tekion,Data Scientist,1933935.5,1933935.5,4.2,40.0,51.0,9.0,25.0,24.0,19.0,Banglore,No
+New York,10000+ Employees,23.0,Private,Banking/Finance,$5 to $10 billion (USD),PwC,Data Scientist,2090901.5,2090901.5,3.9,72.0,9.0,19.0,48.0,30.0,9.0,Banglore,No
+California,10000+ Employees,45.0,Public,Information Technology,$10+ billion (USD),Apple,Data Scientist,203390.5,203390.5,4.4,65.0,15.0,20.0,56.0,15.0,13.0,Banglore,No
+India,5001 to 10000 Employees,34.0,Public,Information Technology,$25 to $50 million (USD),Datamatics Global Services,Data Scientist,330450.5,330450.5,3.3,49.0,29.0,22.0,34.0,16.0,13.0,Banglore,No
+Canada,10000+ Employees,13.0,Public,Information Technology,$5 to $10 billion (USD),Thomson Reuters,Data Scientist,1511045.0,1511045.0,4.2,68.0,15.0,17.0,48.0,14.0,13.0,Banglore,No
+India,10000+ Employees,35.0,Public,Information Technology,$2 to $5 billion (USD),Tech Mahindra,Data Scientist,1208286.0,1208286.0,3.6,64.0,18.0,19.0,38.0,23.0,11.0,Banglore,No
+India,10000+ Employees,19.0,Private,Outsource,$10+ billion (USD),Infosys BPM,Data Scientist,715415.0,715415.0,3.6,68.0,17.0,16.0,25.0,16.0,15.0,Banglore,No
+Ohio,10000+ Employees,22.0,Private,Transportation,$5 to $10 billion (USD),First Student,Data Scientist,50000.0,50000.0,4.1,62.0,8.0,30.0,36.0,36.0,12.0,Banglore,No
+India,1 to 50 Employees,7.0,Private,Information Technology,$1 to $5 million (USD),Hashworks,Data Scientist,1316337.0,1316337.0,3.3,67.0,33.0,50.0,50.0,21.65818759936407,13.633165829145728,Banglore,No
+Morocco,5001 to 10000 Employees,38.0,Public,Information Technology,$500 million to $1 billion (USD),Pegasystems,Data Scientist,1168243.5,1168243.5,4.1,53.0,31.0,16.0,31.0,29.0,16.0,Banglore,No
+California,1001 to 5000 Employees,20.0,Private,Information Technology,$100 to $500 million (USD),Symphony Teleca,Data Scientist,828978.0,828978.0,3.7,71.0,15.0,14.0,31.0,20.0,18.0,Banglore,No
+India,51 to 200 Employees,11.0,Private,Information Technology,$10+ billion (USD),CROPIN TECHNOLOGY SOLUTIONS,Data Scientist,18519.5,18519.5,3.7,73.0,18.0,9.0,55.0,27.0,9.0,Banglore,No
+California,10000+ Employees,35.0,Public,Information Technology,$2 to $5 billion (USD),Synopsys,Data Scientist,375204.0,375204.0,4.1,73.0,13.0,14.0,43.0,23.0,17.0,Banglore,No
+Illinois,1001 to 5000 Employees,22.0,Public,Information Technology,$100 to $500 million (USD),Yodlee,Data Scientist,2876935.5,2876935.5,3.6,59.0,24.0,16.0,38.0,18.0,16.0,Banglore,No
+India,51 to 200 Employees,20.0,Private,Information Technology,$50 to $100 million (USD),Vmoksha Technologies,Data Scientist,488185.0,488185.0,4.4,78.0,22.0,56.0,11.0,11.0,13.633165829145728,Banglore,No
+India,51 to 200 Employees,20.0,Private,Information Technology,$10+ billion (USD),Innoviti,Data Scientist,265036.0,265036.0,2.4,55.0,27.0,18.0,44.0,22.0,11.0,Banglore,No
+India,5001 to 10000 Employees,36.0,Private,Banking/Finance,$500 million to $1 billion (USD),Aegis,Data Scientist,353946.5,353946.5,3.3,55.0,19.0,26.0,34.0,21.0,15.0,Banglore,No
+India,501 to 1000 Employees,6.0,Private,Information Technology,$100 to $500 million (USD),Rapido,Data Scientist,370244.0,370244.0,4.1,43.0,52.0,5.0,58.0,16.0,16.0,Banglore,No
+Singapore,10000+ Employees,53.0,Public,Banking/Finance,$5 to $10 billion (USD),DBS Bank,Data Scientist,1527174.0,1527174.0,3.8,60.0,15.0,24.0,55.0,13.0,10.0,Banglore,No
+India,1 to 50 Employees,3.0,Private,Information Technology,$25 to $50 million (USD),YDI Solutions,Data Scientist,360048.5,360048.5,5.0,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+New York,201 to 500 Employees,6.0,Private,Information Technology,$100 to $500 million (USD),Impact Analytics,Data Scientist,301039.0,301039.0,4.0,48.0,32.0,19.0,38.0,38.0,10.0,Banglore,No
+India,5001 to 10000 Employees,63.0,Public,Government Agencies,$1 to $2 billion (USD),Defence Research & Development Organisation,Data Scientist,28832.0,28832.0,4.3,77.0,3.0,19.0,42.0,25.0,11.0,Banglore,No
+India,1001 to 5000 Employees,26.0,Public,Information Technology,$1 to $2 billion (USD),Inspirisys Solutions Limited,Data Scientist,904005.5,904005.5,3.6,58.0,14.0,28.0,41.0,15.0,12.0,Banglore,No
+India,51 to 200 Employees,20.0,Private,Education,$100 to $500 million (USD),Dexler Information Solutions,Data Scientist,1648278.5,1648278.5,3.8,75.0,19.0,6.0,40.0,13.0,13.0,Banglore,No
+California,51 to 200 Employees,7.0,Private,Banking/Finance,$25 to $50 million (USD),Applied Data Finance,Data Scientist,40121.5,40121.5,4.6,61.0,18.0,21.0,33.0,21.0,21.0,Banglore,No
+India,1001 to 5000 Employees,25.0,Private,Government Agencies,$10+ billion (USD),Samsung R&D Institute India - Bangalore,Data Scientist,1974174.0,1974174.0,3.6,69.0,11.0,20.0,56.0,13.0,12.0,Banglore,No
+Luxembourg,5001 to 10000 Employees,12.0,Public,Banking/Finance,$500 million to $1 billion (USD),Altisource,Data Scientist,1289553.0,1289553.0,3.2,42.0,41.0,17.0,36.0,27.0,11.0,Banglore,No
+Japan,10000+ Employees,103.0,Private,Manufacturing,$10+ billion (USD),Panasonic,Data Scientist,1872943.5,1872943.5,3.7,67.0,15.0,18.0,47.0,15.0,13.0,Banglore,No
+France,1 to 50 Employees,1.0,Private,Information Technology,$25 to $50 million (USD),HiLabs,Data Scientist,1816814.0,1868908.0,4.1,100.0,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Australia,51 to 200 Employees,12.0,Public,Information Technology,$10+ billion (USD),Rubicon Red,Data Scientist,45586.5,45586.5,4.6,89.0,11.0,75.0,25.0,21.65818759936407,13.633165829145728,Banglore,No
+California,501 to 1000 Employees,7.0,Private,Information Technology,$50 to $100 million (USD),Enquero,Data Scientist,1434561.5,1434561.5,3.7,45.0,43.0,13.0,35.0,19.0,16.0,Banglore,No
+Texas,1 to 50 Employees,1.0,Private,Healthcare Medicine,$25 to $50 million (USD),Praktice Ai,Data Scientist,378685.5,378685.5,2.3,40.0,60.0,75.0,25.0,21.65818759936407,13.633165829145728,Banglore,No
+North Carolina,10000+ Employees,28.0,Public,Information Technology,$2 to $5 billion (USD),Red Hat,Data Scientist,3225517.5,3225517.5,4.4,62.0,23.0,14.0,44.0,25.0,17.0,Banglore,No
+India,51 to 200 Employees,9.0,Private,Information Technology,$1 to $5 million (USD),Flutura,Data Scientist,741261.0,749778.0,4.4,65.0,17.0,17.0,23.0,23.0,18.0,Banglore,No
+India,10000+ Employees,35.0,Public,Information Technology,$2 to $5 billion (USD),Tech Mahindra,Data Scientist,1656743.0,1656743.0,3.6,64.0,18.0,19.0,38.0,23.0,11.0,Banglore,No
+India,1001 to 5000 Employees,42.0,Private,Banking/Finance,$10+ billion (USD),Bajaj Finance,Data Scientist,1608744.0,1608744.0,3.8,69.0,15.0,16.0,42.0,23.0,19.0,Banglore,No
+Illinois,201 to 500 Employees,18.0,Private,Information Technology,$25 to $50 million (USD),Utopia,Data Scientist,1021583.5,1021583.5,3.7,81.0,15.0,4.0,24.0,20.0,20.0,Banglore,No
+Denmark,1001 to 5000 Employees,9.0,Private,Information Technology,$10+ billion (USD),Danske IT and Support Services,Data Scientist,1605750.0,1605750.0,3.2,36.0,51.0,13.0,28.0,19.0,17.0,Banglore,No
+India,501 to 1000 Employees,30.0,Public,Government Agencies,$10+ billion (USD),Nhai,Data Scientist,80637.0,80637.0,4.2,50.0,50.0,25.0,25.0,25.0,13.633165829145728,Banglore,No
+United Kingdom,10000+ Employees,3.0,Private,Information Technology,$5 to $10 billion (USD),Refinitiv,Data Scientist,41555.5,41555.5,3.8,59.0,26.0,15.0,54.0,13.0,12.0,Banglore,No
+Netherlands,10000+ Employees,130.0,Public,Manufacturing,$5 to $10 billion (USD),Philips Lighting,Data Scientist,999700.0,999700.0,4.0,71.0,13.0,17.0,54.0,16.0,13.0,Banglore,No
+India,1001 to 5000 Employees,13.0,Private,Banking/Finance,$10+ billion (USD),BankBazaar,Data Scientist,998879.0,998879.0,3.3,56.0,26.0,18.0,33.0,31.0,20.0,Banglore,No
+Germany,10000+ Employees,151.0,Public,Banking/Finance,$10+ billion (USD),Deutsche Bank,Data Scientist,1499333.0,1499333.0,3.8,62.0,15.0,24.0,45.0,23.0,11.0,Banglore,No
+India,201 to 500 Employees,9.0,Private,Information Technology,$1 to $2 billion (USD),Happay,Data Scientist,939824.0,939824.0,3.6,54.0,28.0,18.0,38.0,19.0,11.0,Banglore,No
+India,1 to 50 Employees,4.0,Private,Information Technology,$25 to $50 million (USD),Coffee Beans,Data Scientist,657005.5,657005.5,4.7,50.0,50.0,33.0,33.0,17.0,13.633165829145728,Banglore,No
+India,201 to 500 Employees,5.0,Private,Information Technology,$1 to $5 million (USD),Exalca Technologies,Data Scientist,348082.5,348082.5,3.4,94.0,6.0,40.0,20.0,20.0,13.633165829145728,Banglore,No
+Sweden,10000+ Employees,114.0,Public,Manufacturing,$5 to $10 billion (USD),SKF,Data Scientist,811871.0,811871.0,3.9,75.0,11.0,14.0,39.0,24.0,14.0,Banglore,No
+New Joursey,51 to 200 Employees,5.0,Private,Information Technology,$25 to $50 million (USD),RDA Labs,Data Scientist,1961080.5,1961080.5,4.6,89.0,11.0,33.0,22.0,22.0,13.633165829145728,Banglore,No
+India,10000+ Employees,4.0,Private,Information Technology,$10+ billion (USD),Legato Health Technologies,Data Scientist,46282.0,46282.0,4.0,43.0,41.0,16.0,28.0,24.0,22.0,Banglore,No
+Florida,1 to 50 Employees,20.0,Private,Information Technology,$5 to $10 million (USD),Ultramatics,Data Scientist,209677.5,209677.5,2.7,100.0,50.0,50.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,201 to 500 Employees,18.0,Private,Film Production & Distribution,$10+ billion (USD),Fresherworld.com,Data Scientist,6049080.0,1142503.68,4.1,57.0,15.0,28.0,66.0,18.0,7.0,Banglore,No
+California,10000+ Employees,54.0,Public,Manufacturing,$10+ billion (USD),Applied Materials,Data Scientist,1578721.5,1578721.5,4.0,62.0,13.0,25.0,33.0,24.0,18.0,Banglore,No
+India,10000+ Employees,76.0,Public,Information Technology,$5 to $10 billion (USD),Wipro,Data Scientist,63249.0,63249.0,3.7,70.0,13.0,17.0,44.0,23.0,11.0,Banglore,No
+India,1 to 50 Employees,1.0,Private,Manufacturing,$25 to $50 million (USD),Naveen Engineering,Data Scientist,119191.5,119191.5,4.0,63.0,37.0,38.0,31.0,19.0,13.633165829145728,Banglore,No
+Illinois,10000+ Employees,105.0,Public,Government Agencies,$10+ billion (USD),Boeing,Data Scientist,184994.5,184994.5,3.8,67.0,11.0,22.0,61.0,18.0,6.0,Banglore,No
+Michigan,1001 to 5000 Employees,9.0,Private,Information Technology,$10+ billion (USD),Altimetrik,Data Scientist,40408.5,45833.0,4.1,49.0,40.0,11.0,33.0,23.0,23.0,Banglore,No
+India,1001 to 5000 Employees,42.0,Private,Manufacturing,$10+ billion (USD),Samsung India Electronics,Data Scientist,157444.5,157444.5,3.6,66.0,12.0,22.0,49.0,13.0,12.0,Banglore,No
+India,1001 to 5000 Employees,6.0,Private,Information Technology,$10+ billion (USD),Unacademy,Data Scientist,204812.0,204812.0,3.9,42.0,47.0,12.0,44.0,14.0,11.0,Banglore,No
+Wisconsin,10000+ Employees,37.0,Public,Banking/Finance,$10+ billion (USD),Fiserv,Data Scientist,1205249.0,1205249.0,3.4,55.0,28.0,16.0,40.0,17.0,13.0,Banglore,No
+New Joursey,1001 to 5000 Employees,180.0,Public,Information Technology,$1 to $2 billion (USD),Dun & Bradstreet,Data Scientist,120531.0,120531.0,3.5,58.0,25.0,18.0,38.0,23.0,16.0,Banglore,No
+United Kingdom,501 to 1000 Employees,11.0,Private,Outsource,$10+ billion (USD),MiQ,Data Scientist,1559783.0,1660942.0,4.1,41.0,44.0,15.0,32.0,22.0,15.0,Banglore,No
+California,1001 to 5000 Employees,11.0,Private,Information Technology,$10+ billion (USD),Freshworks,Data Scientist,5267801.0,5267801.0,4.3,61.0,27.0,12.0,37.0,26.0,15.0,Banglore,No
+California,1 to 50 Employees,1.0,Private,Information Technology,Less than $1 million (USD),Sonasoft,Data Scientist,1314317.0,1314317.0,3.7,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+New Joursey,501 to 1000 Employees,15.0,Private,Consulting,$50 to $100 million (USD),LatentView Analytics,Data Scientist,781019.0,843500.0,3.7,70.0,13.0,17.0,62.0,18.0,10.0,Banglore,No
+India,10000+ Employees,22.0,Public,Information Technology,$500 million to $1 billion (USD),Mindtree,Data Scientist,1311776.0,1311776.0,3.9,66.0,17.0,18.0,34.0,25.0,14.0,Banglore,No
+India,1 to 50 Employees,5.0,Private,Information Technology,$25 to $50 million (USD),DocOn Technologies,Data Scientist,2089792.5,2089792.5,4.0,78.0,11.0,11.0,44.0,22.0,11.0,Banglore,No
+India,10000+ Employees,36.0,Private,Manufacturing,$1 to $2 billion (USD),Amara Raja,Data Scientist,35942.5,35942.5,4.1,71.0,17.0,13.0,67.0,17.0,8.0,Banglore,No
+New York,10000+ Employees,20.0,Private,Information Technology,$500 million to $1 billion (USD),Synechron,Data Scientist,905998.5,905998.5,3.9,53.0,32.0,15.0,32.0,27.0,13.0,Banglore,No
+New York,10000+ Employees,22.0,Public,Consulting,$500 million to $1 billion (USD),EXL Service,Data Scientist,871430.5,871430.5,3.6,64.0,18.0,19.0,48.0,14.0,10.0,Banglore,No
+United Kingdom,1 to 50 Employees,1.0,Private,Government Agencies,$25 to $50 million (USD),Other,Data Scientist,1001427.0,1001427.0,4.1,57.0,5.0,38.0,33.0,22.0,17.0,Banglore,No
+Michigan,10000+ Employees,41.0,Private,Information Technology,$1 to $2 billion (USD),Atos-Syntel,Data Scientist,613000.0,639254.0,3.5,67.0,14.0,19.0,36.0,32.0,12.0,Banglore,No
+California,501 to 1000 Employees,18.0,Private,Information Technology,$25 to $50 million (USD),Innominds Software,Data Scientist,694225.0,768115.0,3.9,68.0,18.0,13.0,37.0,19.0,14.0,Banglore,No
+India,1 to 50 Employees,5.0,Private,Information Technology,Less than $1 million (USD),Mate Labs,Data Scientist,199512.0,199512.0,4.1,78.0,11.0,11.0,78.0,11.0,11.0,Banglore,No
+California,1001 to 5000 Employees,10.0,Public,Information Technology,$10+ billion (USD),Snap,Data Scientist,4385691.0,4385691.0,4.1,42.0,36.0,22.0,48.0,25.0,18.0,Banglore,No
+Ireland,10000+ Employees,8.0,Public,Manufacturing,$2 to $5 billion (USD),Allegion,Data Scientist,1256156.0,1256156.0,3.7,54.0,38.0,8.0,41.0,20.0,15.0,Banglore,No
+Kansas,10000+ Employees,65.0,Public,Telecommunication/Television,$2 to $5 billion (USD),Sprint,Data Scientist,948005.5,948005.5,3.5,68.0,13.0,19.0,70.0,11.0,9.0,Banglore,No
+New York,201 to 500 Employees,6.0,Private,Information Technology,$100 to $500 million (USD),Impact Analytics,Data Scientist,1067888.0,1164562.0,4.0,48.0,32.0,19.0,38.0,38.0,10.0,Banglore,No
+Morocco,10000+ Employees,129.0,Public,Manufacturing,$10+ billion (USD),GE,Data Scientist,2142705.0,2255035.0,3.9,70.0,10.0,21.0,48.0,25.0,10.0,Banglore,No
+Belgium,10000+ Employees,169.0,Public,Manufacturing,$10+ billion (USD),Anheuser-Busch InBev,Data Scientist,1413240.0,1655281.0,3.6,60.0,19.0,22.0,63.0,22.0,6.0,Banglore,No
+Ireland,10000+ Employees,32.0,Public,Consulting,$10+ billion (USD),Accenture,Data Scientist,1206899.0,1300000.0,4.0,70.0,13.0,17.0,37.0,29.0,12.0,Banglore,No
+India,10000+ Employees,76.0,Public,Information Technology,$5 to $10 billion (USD),Wipro,Data Scientist,820208.0,820208.0,3.7,70.0,13.0,17.0,44.0,23.0,11.0,Banglore,No
+Belgium,10000+ Employees,169.0,Public,Manufacturing,$10+ billion (USD),Anheuser-Busch InBev,Data Scientist,2000000.0,2417582.0,3.6,60.0,19.0,22.0,63.0,22.0,6.0,Banglore,No
+North Carolina,1 to 50 Employees,14.0,Private,Information Technology,$5 to $10 million (USD),Fuzzy Logix,Data Scientist,1311865.0,1311865.0,3.6,75.0,25.0,100.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,10000+ Employees,110.0,Public,Information Technology,$10+ billion (USD),IBM,Data Scientist,3139130.0,3139130.0,3.9,69.0,12.0,19.0,43.0,22.0,14.0,Banglore,No
+New York,1001 to 5000 Employees,21.0,Private,Consulting,$100 to $500 million (USD),Fractal,Data Scientist,1778459.0,1791129.0,4.0,72.0,19.0,9.0,48.0,20.0,15.0,Banglore,No
+Connecticut,10000+ Employees,41.0,Private,Manufacturing,$5 to $10 billion (USD),HARMAN,Data Scientist,1378435.0,1378435.0,3.8,54.0,32.0,14.0,36.0,25.0,10.0,Banglore,No
+India,5001 to 10000 Employees,10.0,Private,Information Technology,$10+ billion (USD),Ola,Data Scientist,3300000.0,3598041.0,3.1,47.0,43.0,11.0,23.0,23.0,22.0,Banglore,No
+India,1001 to 5000 Employees,10.0,Public,Information Technology,$50 to $100 million (USD),Happiest Minds Technologies,Data Scientist,1779149.0,1779149.0,4.3,74.0,21.0,5.0,23.0,19.0,18.0,Banglore,No
+New Joursey,10000+ Employees,27.0,Public,Consulting,$10+ billion (USD),Cognizant Technology Solutions,Data Scientist,755211.0,824756.0,3.7,73.0,13.0,14.0,43.0,23.0,10.0,Banglore,No
+India,10000+ Employees,7.0,Private,Information Technology,$10+ billion (USD),Swiggy,Data Scientist,550359.0,550359.0,4.0,42.0,45.0,12.0,26.0,23.0,18.0,Banglore,No
+California,1 to 50 Employees,1.0,Private,Government Agencies,$25 to $50 million (USD),CrowdANALYTIX,Data Scientist,254134.0,254134.0,4.1,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+California,1001 to 5000 Employees,42.0,Private,Information Technology,$10+ billion (USD),Walmart Labs,Data Scientist,3500000.0,4175000.0,3.8,48.0,36.0,16.0,27.0,21.0,20.0,Banglore,No
+United Kingdom,10000+ Employees,32.0,Private,Banking/Finance,$10+ billion (USD),EY,Data Scientist,1583296.0,1896482.0,3.8,73.0,9.0,18.0,36.0,36.0,13.0,Banglore,No
+New Joursey,10000+ Employees,27.0,Public,Consulting,$10+ billion (USD),Cognizant Technology Solutions,Data Scientist,1491087.0,1527710.0,3.7,73.0,13.0,14.0,43.0,23.0,10.0,Banglore,No
+Washington,10000+ Employees,27.0,Public,Information Technology,$10+ billion (USD),Amazon,Data Scientist,2423357.0,2988948.0,4.3,59.0,19.0,23.0,54.0,15.0,12.0,Banglore,No
+India,10000+ Employees,59.0,Public,General Merchandise & Superstores,$10+ billion (USD),Target,Data Scientist,2942678.0,3115800.0,4.3,67.0,13.0,21.0,64.0,12.0,10.0,Banglore,No
+India,501 to 1000 Employees,5.0,Private,Consulting,$100 to $500 million (USD),TheMathCompany,Data Scientist,1163287.0,1163287.0,3.8,61.0,21.0,18.0,45.0,22.0,15.0,Banglore,No
+India,501 to 1000 Employees,9.0,Private,Education,$10+ billion (USD),Embibe,Data Scientist,1687500.0,1961009.0,4.1,59.0,37.0,4.0,32.0,19.0,19.0,Banglore,No
+Ireland,10000+ Employees,32.0,Public,Consulting,$10+ billion (USD),Accenture,Data Scientist,1634749.0,1869417.0,4.0,70.0,13.0,17.0,37.0,29.0,12.0,Banglore,No
+Illinois,1001 to 5000 Employees,17.0,Private,Consulting,$10+ billion (USD),Mu Sigma,Data Scientist,37147.0,37147.0,3.3,70.0,12.0,19.0,77.0,12.0,5.0,Banglore,No
+Morocco,10000+ Employees,31.0,Public,Consulting,$10+ billion (USD),Publicis Sapient,Data Scientist,1919175.0,1919175.0,3.8,68.0,19.0,13.0,27.0,26.0,21.0,Banglore,No
+India,501 to 1000 Employees,9.0,Private,Education,$10+ billion (USD),Embibe,Data Scientist,351190.5,329807.0,4.1,59.0,37.0,4.0,32.0,19.0,19.0,Banglore,No
+India,1001 to 5000 Employees,7.0,Private,Transportation,$10+ billion (USD),Bounce,Data Scientist,428749.5,395769.0,3.6,55.0,25.0,20.0,33.0,17.0,17.0,Banglore,No
+India,201 to 500 Employees,12.0,Private,Consulting,$10+ billion (USD),Cartesian Consulting,Data Scientist,273530.5,286513.0,3.1,67.0,17.0,17.0,65.0,24.0,6.0,Banglore,No
+Virginia,10000+ Employees,4.0,Public,Information Technology,$10+ billion (USD),DXC Technology,Data Scientist,1968908.5,913759.0,3.3,66.0,16.0,19.0,32.0,30.0,12.0,Banglore,No
+India,1 to 50 Employees,1.0,Private,Information Technology,$25 to $50 million (USD),Discover Dollar,Data Scientist,147339.0,148003.0,4.6,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+New York,201 to 500 Employees,6.0,Private,Information Technology,$100 to $500 million (USD),Impact Analytics,Data Scientist,254920.0,276994.0,4.0,48.0,32.0,19.0,38.0,38.0,10.0,Banglore,No
+California,51 to 200 Employees,8.0,Private,Information Technology,$1 to $2 billion (USD),Zendrive,Data Scientist,3349979.5,3000000.0,3.8,45.0,48.0,6.0,57.0,11.0,11.0,Banglore,No
+California,10000+ Employees,39.0,Public,Information Technology,$2 to $5 billion (USD),Adobe,Data Scientist,3077843.5,2929855.0,4.4,61.0,23.0,16.0,29.0,24.0,20.0,Banglore,No
+India,51 to 200 Employees,9.0,Private,Information Technology,$1 to $5 million (USD),Flutura,Data Scientist,797712.0,865820.0,4.4,65.0,17.0,17.0,23.0,23.0,18.0,Banglore,No
+California,51 to 200 Employees,8.0,Private,Information Technology,$1 to $2 billion (USD),Sigmoid Analytics,Data Scientist,2100000.0,2200000.0,4.0,60.0,30.0,10.0,39.0,25.0,24.0,Banglore,No
+India,1001 to 5000 Employees,10.0,Public,Information Technology,$50 to $100 million (USD),Happiest Minds Technologies,Data Scientist,309516.5,405433.0,4.3,74.0,21.0,5.0,23.0,19.0,18.0,Banglore,No
+California,51 to 200 Employees,8.0,Private,Information Technology,$1 to $2 billion (USD),Sigmoid Analytics,Data Scientist,936136.0,1000000.0,4.0,60.0,30.0,10.0,39.0,25.0,24.0,Banglore,No
+Ireland,10000+ Employees,32.0,Public,Consulting,$10+ billion (USD),Accenture,Data Scientist,2525225.5,3142105.0,4.0,70.0,13.0,17.0,37.0,29.0,12.0,Banglore,No
+North Carolina,10000+ Employees,4.0,Public,Healthcare Medicine,$10+ billion (USD),IQVIA,Data Scientist,678086.5,719461.0,3.8,61.0,20.0,19.0,46.0,15.0,14.0,Banglore,No
+Illinois,10000+ Employees,96.0,Public,Manufacturing,$10+ billion (USD),Caterpillar,Data Scientist,1211671.0,1211671.0,3.9,71.0,8.0,21.0,36.0,34.0,8.0,Banglore,No
+Washington,10000+ Employees,46.0,Public,Information Technology,$10+ billion (USD),Microsoft,Data Scientist,992488.0,992488.0,4.4,66.0,13.0,21.0,33.0,30.0,15.0,Banglore,No
+Illinois,5001 to 10000 Employees,129.0,Private,Healthcare Medicine,$10+ billion (USD),GE Healthcare,Data Scientist,569027.0,569027.0,4.0,65.0,17.0,18.0,43.0,18.0,15.0,Banglore,No
+India,10000+ Employees,14.0,Private,Information Technology,$5 to $10 billion (USD),Flipkart,Data Scientist,638092.5,638092.5,4.2,58.0,26.0,16.0,29.0,18.0,17.0,Banglore,No
+Illinois,1 to 50 Employees,9.0,Private,Information Technology,$25 to $50 million (USD),Busigence Technologies,Data Scientist,339926.5,339926.5,2.2,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,1 to 50 Employees,5.0,Private,Information Technology,Less than $1 million (USD),Mate Labs,Data Scientist,227224.0,227224.0,4.1,78.0,11.0,11.0,78.0,11.0,11.0,Banglore,No
+India,5001 to 10000 Employees,10.0,Private,Information Technology,$10+ billion (USD),Ola,Data Scientist,696004.0,696004.0,3.1,47.0,43.0,11.0,23.0,23.0,22.0,Banglore,No
+California,201 to 500 Employees,7.0,Private,Information Technology,$100 to $500 million (USD),Postman,Data Scientist,404067.0,404067.0,4.4,44.0,39.0,17.0,64.0,16.0,8.0,Banglore,No
+India,201 to 500 Employees,10.0,Private,Consulting,$10+ billion (USD),Affine,Data Scientist,185619.5,185619.5,3.9,55.0,31.0,14.0,42.0,19.0,15.0,Banglore,No
+California,10000+ Employees,82.0,Public,Information Technology,$10+ billion (USD),HP Inc.,Data Scientist,407865.5,1142503.68,4.2,73.0,13.0,14.0,45.0,17.0,15.0,Banglore,No
+India,51 to 200 Employees,4.0,Private,Information Technology,$25 to $50 million (USD),OkCredit,Data Scientist,368839.0,368839.0,4.7,41.0,59.0,41.0,24.0,18.0,13.633165829145728,Banglore,No
+India,10000+ Employees,70.0,Private,Manufacturing,$100 to $500 million (USD),Robert Bosch India,Data Scientist,199052.0,199052.0,4.0,74.0,12.0,14.0,53.0,13.0,10.0,Banglore,No
+Ohio,10000+ Employees,22.0,Private,Transportation,$5 to $10 billion (USD),First Student,Data Scientist,307560.0,307560.0,4.1,62.0,8.0,30.0,36.0,36.0,12.0,Banglore,No
+India,10000+ Employees,76.0,Public,Information Technology,$5 to $10 billion (USD),Wipro,Data Scientist,1542063.0,1542063.0,3.7,70.0,13.0,17.0,44.0,23.0,11.0,Banglore,No
+United Kingdom,10000+ Employees,191.0,Public,Healthcare Medicine,$10+ billion (USD),GlaxoSmithKline,Data Scientist,3536315.0,3536315.0,3.8,68.0,13.0,19.0,64.0,10.0,8.0,Banglore,No
+California,10000+ Employees,37.0,Private,Information Technology,$10+ billion (USD),Cisco Systems,Data Scientist,2605278.5,2800000.0,4.4,69.0,11.0,19.0,32.0,30.0,18.0,Banglore,No
+Illinois,10000+ Employees,105.0,Public,Government Agencies,$10+ billion (USD),Boeing,Data Scientist,2530686.0,2530686.0,3.8,67.0,11.0,22.0,61.0,18.0,6.0,Banglore,No
+India,501 to 1000 Employees,8.0,Private,Manufacturing,$10+ billion (USD),Ather Energy,Data Scientist,1922234.0,1922234.0,3.8,61.0,39.0,41.0,22.0,19.0,13.633165829145728,Banglore,No
+France,10000+ Employees,157.0,Public,Banking/Finance,$10+ billion (USD),Société Générale,Data Scientist,2313533.5,2313533.5,3.7,62.0,17.0,21.0,42.0,21.0,11.0,Banglore,No
+India,10000+ Employees,24.0,Public,Information Technology,$10+ billion (USD),LTI,Data Scientist,755270.0,755270.0,3.6,69.0,16.0,15.0,60.0,15.0,9.0,Banglore,No
+New Joursey,201 to 500 Employees,11.0,Private,Information Technology,$10 to $25 million (USD),Gramener,Data Scientist,682409.0,682409.0,4.5,62.0,23.0,15.0,30.0,26.0,22.0,Banglore,No
+California,51 to 200 Employees,5.0,Private,Information Technology,$25 to $50 million (USD),Noodle.ai,Data Scientist,477675.5,1142503.68,3.9,47.0,40.0,13.0,64.0,21.0,7.0,Banglore,No
+California,1001 to 5000 Employees,65.0,Public,Information Technology,$500 million to $1 billion (USD),FICO,Data Scientist,2115542.5,2115542.5,3.9,70.0,13.0,16.0,34.0,26.0,19.0,Banglore,No
+California,1001 to 5000 Employees,7.0,Private,Information Technology,$100 to $500 million (USD),Brillio,Data Scientist,965745.5,965745.5,3.6,51.0,35.0,15.0,27.0,27.0,20.0,Banglore,No
+Colorado,1 to 50 Employees,10.0,Private,Transportation,$25 to $50 million (USD),Direct Line Transportation,Data Scientist,134334.5,134334.5,4.0,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+California,10000+ Employees,21.0,Private,Information Technology,$100 to $500 million (USD),[24]7.ai,Data Scientist,1879854.0,1879854.0,4.3,56.0,24.0,20.0,23.0,21.0,16.0,Banglore,No
+Illinois,5001 to 10000 Employees,52.0,Public,Information Technology,$2 to $5 billion (USD),Zebra Technologies,Data Scientist,1206146.5,1206146.5,3.9,54.0,21.0,25.0,57.0,16.0,13.0,Banglore,No
+Pennsylvania,10000+ Employees,135.0,Public,Information Technology,$2 to $5 billion (USD),Unisys,Data Scientist,261659.5,261659.5,3.6,67.0,16.0,17.0,27.0,21.0,18.0,Banglore,No
+California,10000+ Employees,169.0,Public,Banking/Finance,$10+ billion (USD),Wells Fargo,Data Scientist,998925.0,998925.0,3.7,64.0,14.0,22.0,64.0,9.0,9.0,Banglore,No
+Belgium,10000+ Employees,169.0,Public,Manufacturing,$10+ billion (USD),Anheuser-Busch InBev,Data Scientist,1063427.0,1063427.0,3.6,60.0,19.0,22.0,63.0,22.0,6.0,Banglore,No
+California,1 to 50 Employees,8.0,Private,Information Technology,$25 to $50 million (USD),Emplay,Data Scientist,250919.0,250919.0,3.5,50.0,17.0,33.0,50.0,25.0,25.0,Banglore,No
+Oklahoma,10000+ Employees,38.0,Private,Outsource,$2 to $5 billion (USD),Express Employment Professionals,Data Scientist,299328.0,299328.0,3.9,58.0,25.0,17.0,51.0,19.0,11.0,Banglore,No
+Wisconsin,10000+ Employees,37.0,Public,Banking/Finance,$10+ billion (USD),Fiserv,Data Scientist,503096.0,503096.0,3.4,55.0,28.0,16.0,40.0,17.0,13.0,Banglore,No
+India,1 to 50 Employees,5.0,Private,Information Technology,$25 to $50 million (USD),Entropik Tech,Data Scientist,136165.5,136165.5,4.4,100.0,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+United Kingdom,10000+ Employees,32.0,Private,Banking/Finance,$10+ billion (USD),EY,Data Scientist,1499265.0,1499265.0,3.8,73.0,9.0,18.0,36.0,36.0,13.0,Banglore,No
+North Carolina,1 to 50 Employees,14.0,Private,Information Technology,$5 to $10 million (USD),Fuzzy Logix,Data Scientist,385113.0,385113.0,3.6,75.0,25.0,100.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Florida,1 to 50 Employees,7.0,Private,Information Technology,$25 to $50 million (USD),Comsense Technologies,Data Scientist,204939.5,204939.5,4.4,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Virginia,10000+ Employees,27.0,Public,Banking/Finance,$10+ billion (USD),Capital One,Data Scientist,1210349.5,1210349.5,4.1,65.0,15.0,20.0,46.0,29.0,11.0,Banglore,No
+California,10000+ Employees,6.0,Public,Information Technology,$10+ billion (USD),Hewlett Packard Enterprise | HPE,Data Scientist,362705.0,362705.0,4.2,67.0,14.0,19.0,35.0,21.0,18.0,Banglore,No
+India,201 to 500 Employees,18.0,Private,Information Technology,$10+ billion (USD),Sixth Energy Technologies,Data Scientist,315630.0,315630.0,3.6,83.0,17.0,40.0,20.0,20.0,13.633165829145728,Banglore,No
+India,5001 to 10000 Employees,21.0,Private,Information Technology,$10+ billion (USD),ITC Infotech,Data Scientist,148841.5,148841.5,3.8,58.0,25.0,17.0,34.0,18.0,17.0,Banglore,No
+Minnesota,501 to 1000 Employees,30.0,Public,Healthcare Medicine,$10+ billion (USD),Optum,Data Scientist,631191.0,631191.0,3.7,66.0,19.0,15.0,37.0,32.0,11.0,Banglore,No
+India,10000+ Employees,40.0,Public,Information Technology,$10+ billion (USD),Infosys,Data Scientist,453360.5,453360.5,3.8,77.0,9.0,15.0,55.0,21.0,12.0,Banglore,No
+Washington,51 to 200 Employees,9.0,Private,Information Technology,$10 to $25 million (USD),CommerceIQ,Data Scientist,857910.5,857910.5,3.8,30.0,57.0,14.0,52.0,21.0,15.0,Banglore,No
+India,1 to 50 Employees,1.0,Private,Outsource,$25 to $50 million (USD),Nikhil Analytics,Data Scientist,131949.5,131949.5,3.8,75.0,25.0,50.0,25.0,25.0,13.633165829145728,Banglore,No
+Finland,10000+ Employees,156.0,Public,Telecommunication/Television,$10+ billion (USD),Nokia,Data Scientist,404370.5,404370.5,4.1,75.0,8.0,17.0,34.0,22.0,19.0,Banglore,No
+Belgium,10000+ Employees,169.0,Public,Manufacturing,$10+ billion (USD),Anheuser-Busch InBev,Data Scientist,923325.5,923325.5,3.6,60.0,19.0,22.0,63.0,22.0,6.0,Banglore,No
+Singapore,201 to 500 Employees,12.0,Private,Information Technology,$100 to $500 million (USD),Mystifly,Data Scientist,395529.5,395529.5,3.6,44.0,44.0,13.0,33.0,27.0,20.0,Banglore,No
+India,51 to 200 Employees,6.0,Private,Banking/Finance,$25 to $50 million (USD),atyati technologies,Data Scientist,250805.0,250805.0,4.5,89.0,11.0,63.0,25.0,13.0,13.633165829145728,Banglore,No
+India,1 to 50 Employees,1.0,Private,Information Technology,$25 to $50 million (USD),Tarah Technologies,Data Scientist,226597.0,226597.0,3.2,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,1 to 50 Employees,7.0,Private,Information Technology,$25 to $50 million (USD),Neewee,Data Scientist,180802.5,180802.5,3.6,50.0,50.0,100.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,501 to 1000 Employees,6.0,Private,Information Technology,$100 to $500 million (USD),Rapido,Data Scientist,313599.0,313599.0,4.1,43.0,52.0,5.0,58.0,16.0,16.0,Banglore,No
+Australia,1 to 50 Employees,4.0,Private,Information Technology,$25 to $50 million (USD),Tribes.AI,Data Scientist,245265.0,1142503.68,5.0,100.0,50.0,50.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,51 to 200 Employees,5.0,Public,Information Technology,$1 to $5 million (USD),Xelpmoc Design & Tech,Data Scientist,162060.5,162060.5,3.3,82.0,18.0,55.0,36.0,9.0,13.633165829145728,Banglore,No
+India,1 to 50 Employees,4.0,Private,Information Technology,$25 to $50 million (USD),Sumyag,Data Scientist,262116.5,262116.5,4.5,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Morocco,10000+ Employees,75.0,Private,Banking/Finance,$10+ billion (USD),Fidelity Investments,Data Scientist,389843.0,389843.0,4.1,67.0,14.0,19.0,47.0,21.0,11.0,Banglore,No
+India,5001 to 10000 Employees,11.0,Private,"Cable, Internet & Telephone Providers",$10+ billion (USD),Jio,Data Scientist,341649.5,341649.5,3.7,63.0,17.0,20.0,44.0,18.0,17.0,Banglore,No
+New York,10000+ Employees,98.0,Public,Information Technology,$5 to $10 billion (USD),Nielsen,Data Scientist,711363.5,711363.5,3.7,65.0,14.0,21.0,46.0,25.0,14.0,Banglore,No
+India,1 to 50 Employees,1.0,Private,Information Technology,$25 to $50 million (USD),Prasanna Technologies,Data Scientist,190268.0,190268.0,3.6,40.0,60.0,75.0,25.0,21.65818759936407,13.633165829145728,Banglore,No
+India,5001 to 10000 Employees,63.0,Public,Government Agencies,$1 to $2 billion (USD),Defence Research & Development Organisation,Data Scientist,155318.0,155318.0,4.3,77.0,3.0,19.0,42.0,25.0,11.0,Banglore,No
+Pennsylvania,201 to 500 Employees,20.0,Private,Healthcare Medicine,$5 to $10 million (USD),M*Modal,Data Scientist,31171.5,31171.5,3.5,60.0,21.0,19.0,44.0,22.0,10.0,Banglore,No
+California,501 to 1000 Employees,18.0,Private,Information Technology,$25 to $50 million (USD),Innominds Software,Data Scientist,523562.5,523562.5,3.9,68.0,18.0,13.0,37.0,19.0,14.0,Banglore,No
+North Carolina,10000+ Employees,136.0,Public,Information Technology,$10+ billion (USD),Honeywell,Data Scientist,1008276.5,1008276.5,3.7,64.0,16.0,20.0,39.0,21.0,13.0,Banglore,No
+India,1001 to 5000 Employees,25.0,Private,Government Agencies,$10+ billion (USD),Samsung R&D Institute India - Bangalore,Data Scientist,1045422.0,1045422.0,3.6,69.0,11.0,20.0,56.0,13.0,12.0,Banglore,No
+Singapore,1 to 50 Employees,4.0,Private,Information Technology,$25 to $50 million (USD),Lifesight,Data Scientist,4381953.0,4381953.0,4.7,57.0,43.0,43.0,29.0,29.0,13.633165829145728,Banglore,No
+California,51 to 200 Employees,12.0,Private,Information Technology,$10+ billion (USD),Seven Lakes Technologies,Data Scientist,5398498.0,5398498.0,4.5,64.0,20.0,16.0,29.0,29.0,21.0,Banglore,No
+Missouri,10000+ Employees,42.0,Public,Information Technology,$5 to $10 billion (USD),Cerner,Data Scientist,3025526.5,3025526.5,3.8,77.0,9.0,14.0,47.0,21.0,15.0,Banglore,No
+India,51 to 200 Employees,6.0,Public,Government Agencies,$10+ billion (USD),CSTEP,Data Scientist,1694943.5,1694943.5,3.1,100.0,33.0,33.0,33.0,21.65818759936407,13.633165829145728,Banglore,No
+Hong Kong,1001 to 5000 Employees,99.0,Public,Banking/Finance,$100 to $500 million (USD),Citic Bank International,Data Scientist,1696931.5,1696931.5,3.7,50.0,50.0,50.0,50.0,21.65818759936407,13.633165829145728,Banglore,No
+Denmark,10000+ Employees,93.0,Private,Transportation,$10+ billion (USD),MAERSK,Data Scientist,2003240.0,2003240.0,4.0,61.0,20.0,19.0,56.0,11.0,10.0,Banglore,No
+Florida,51 to 200 Employees,3.0,Private,Information Technology,$5 to $10 million (USD),Blackstraw,Data Scientist,2926641.0,2926641.0,3.9,100.0,50.0,25.0,25.0,21.65818759936407,13.633165829145728,Banglore,No
+Texas,10000+ Employees,54.0,Public,Information Technology,$10+ billion (USD),NTT DATA,Data Scientist,2110857.5,2110857.5,3.7,67.0,17.0,16.0,33.0,28.0,15.0,Banglore,No
+Texas,10000+ Employees,102.0,Public,Government Agencies,$10+ billion (USD),Halliburton,Data Scientist,3523450.0,3523450.0,3.6,70.0,11.0,19.0,44.0,32.0,9.0,Banglore,No
+California,51 to 200 Employees,11.0,Private,Information Technology,$10+ billion (USD),Bidgely,Data Scientist,2669204.0,2669204.0,3.4,57.0,31.0,12.0,25.0,23.0,20.0,Banglore,No
+India,1001 to 5000 Employees,13.0,Private,Banking/Finance,$10+ billion (USD),BankBazaar,Data Scientist,1977236.0,1977236.0,3.3,56.0,26.0,18.0,33.0,31.0,20.0,Banglore,No
+India,1001 to 5000 Employees,20.0,Private,Information Technology,$5 to $10 million (USD),Molecular Connections,Data Scientist,749395.5,749395.5,3.5,35.0,32.0,32.0,48.0,14.0,14.0,Banglore,No
+California,10000+ Employees,44.0,Public,Information Technology,$10+ billion (USD),Oracle,Data Scientist,1256945.5,1256945.5,3.7,67.0,15.0,18.0,29.0,27.0,19.0,Banglore,No
+Germany,10000+ Employees,21.0,Private,Information Technology,$5 to $10 billion (USD),T-Systems,Data Scientist,2098077.5,2098077.5,3.8,60.0,22.0,18.0,40.0,15.0,13.0,Banglore,No
+India,51 to 200 Employees,17.0,Private,Information Technology,$5 to $10 million (USD),Nabler Web Solutions,Data Scientist,860569.0,860569.0,4.5,70.0,17.0,13.0,33.0,22.0,11.0,Banglore,No
+United Kingdom,10000+ Employees,156.0,Public,Banking/Finance,$10+ billion (USD),HSBC Holdings,Data Scientist,1060334.5,1060334.5,3.7,63.0,11.0,26.0,60.0,11.0,9.0,Banglore,No
+India,501 to 1000 Employees,30.0,Private,Information Technology,Less than $1 million (USD),Dailyhunt,Data Scientist,2047028.0,2047028.0,3.5,46.0,42.0,13.0,33.0,26.0,14.0,Banglore,No
+India,10000+ Employees,22.0,Public,Information Technology,$500 million to $1 billion (USD),Mindtree,Data Scientist,1206600.0,1206600.0,3.9,66.0,17.0,18.0,34.0,25.0,14.0,Banglore,No
+Morocco,10000+ Employees,58.0,Private,Consulting,$5 to $10 billion (USD),Boston Consulting Group,Data Scientist,1753404.0,1753403.5,4.1,70.0,12.0,18.0,50.0,26.0,11.0,Banglore,No
+India,51 to 200 Employees,6.0,Private,Outsource,$25 to $50 million (USD),Komli Media,Data Scientist,2537044.5,2537044.5,3.5,45.0,9.0,45.0,27.0,27.0,18.0,Banglore,No
+United Kingdom,10000+ Employees,28.0,Private,Government Agencies,$10+ billion (USD),Kantar,Data Scientist,3904680.0,3904680.0,3.4,61.0,18.0,21.0,50.0,16.0,14.0,Banglore,No
+India,501 to 1000 Employees,14.0,Private,Information Technology,$10+ billion (USD),InMobi,Data Scientist,2432807.0,2432807.0,4.1,47.0,38.0,16.0,36.0,21.0,18.0,Banglore,No
+India,201 to 500 Employees,4.0,Private,Manufacturing,$100 to $500 million (USD),SUN Mobility,Data Scientist,1317778.0,1317778.0,3.1,33.0,67.0,100.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,1001 to 5000 Employees,42.0,Public,Government Agencies,$10+ billion (USD),UIDAI,Data Scientist,1336138.0,1336137.5,3.9,67.0,33.0,33.0,33.0,33.0,13.633165829145728,Banglore,No
+New York,10000+ Employees,351.0,Public,Manufacturing,$10+ billion (USD),Hudson's Bay Company,Data Scientist,41928.0,41928.0,3.4,68.0,13.0,19.0,67.0,12.0,11.0,Banglore,No
+India,51 to 200 Employees,11.0,Private,Information Technology,$10+ billion (USD),Neviton,Data Scientist,1223453.0,1223453.0,3.5,93.0,7.0,60.0,20.0,7.0,13.633165829145728,Banglore,No
+United Arab Emirates,10000+ Employees,48.0,Private,Manufacturing,$10+ billion (USD),Landmark Group,Data Scientist,2032826.0,2032826.0,3.7,56.0,25.0,19.0,29.0,23.0,17.0,Banglore,No
+New Joursey,10000+ Employees,130.0,Public,Healthcare Medicine,$10+ billion (USD),Merck,Data Scientist,897210.5,897210.5,4.2,70.0,12.0,19.0,52.0,14.0,13.0,Banglore,No
+New Joursey,201 to 500 Employees,7.0,Private,Information Technology,$100 to $500 million (USD),Dodge Data & Analytics,Data Scientist,69996.5,69996.5,3.3,50.0,33.0,17.0,69.0,13.0,13.0,Banglore,No
+India,51 to 200 Employees,6.0,Private,Consulting,$25 to $50 million (USD),Thoucentric,Data Scientist,712980.5,712980.5,4.3,57.0,21.0,21.0,40.0,30.0,20.0,Banglore,No
+California,10000+ Employees,23.0,Public,Information Technology,$10+ billion (USD),Google,Data Scientist,121855.5,121855.0,4.5,62.0,15.0,23.0,44.0,22.0,22.0,Banglore,No
+Netherlands,10000+ Employees,130.0,Public,Manufacturing,$5 to $10 billion (USD),Signify,Data Scientist,874367.5,874367.5,3.6,74.0,15.0,11.0,61.0,15.0,13.0,Banglore,No
+India,51 to 200 Employees,10.0,Private,Information Technology,Less than $1 million (USD),Mobinius,Data Scientist,224288.5,224288.5,3.8,100.0,50.0,50.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,1001 to 5000 Employees,14.0,Private,Information Technology,$10+ billion (USD),Myntra,Data Scientist,507097.5,507097.5,4.1,53.0,31.0,15.0,25.0,20.0,18.0,Banglore,No
+Australia,1 to 50 Employees,14.0,Private,Outsource,$25 to $50 million (USD),Datalicious,Data Scientist,894881.5,894881.5,3.8,71.0,29.0,67.0,17.0,17.0,13.633165829145728,Banglore,No
+India,5001 to 10000 Employees,45.0,Public,Information Technology,$5 to $10 million (USD),HCL Infosystems,Data Scientist,398634.0,398634.0,3.6,74.0,9.0,17.0,30.0,23.0,16.0,Banglore,No
+Virginia,51 to 200 Employees,39.0,Public,Banking/Finance,$25 to $50 million (USD),Capital Impact Partners,Data Scientist,476706.5,476706.5,3.9,67.0,33.0,100.0,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+Belgium,10000+ Employees,169.0,Public,Manufacturing,$10+ billion (USD),Anheuser-Busch InBev,Data Scientist,1416794.5,1416794.5,3.6,60.0,19.0,22.0,63.0,22.0,6.0,Banglore,No
+India,10000+ Employees,20.0,Public,Outsource,$500 million to $1 billion (USD),Firstsource Solutions,Data Scientist,1004780.0,1004780.0,3.6,57.0,18.0,26.0,38.0,18.0,13.0,Banglore,No
+India,201 to 500 Employees,7.0,Private,Banking/Finance,$100 to $500 million (USD),LendingKart,Data Scientist,2194619.0,2194619.0,4.0,42.0,44.0,13.0,37.0,17.0,13.0,Banglore,No
+California,51 to 200 Employees,22.0,Private,Film Production & Distribution,$10 to $25 million (USD),Anonymous Content,Data Scientist,1987610.0,1987610.0,3.7,67.0,11.0,22.0,45.0,27.0,7.0,Banglore,No
+India,501 to 1000 Employees,29.0,Public,Information Technology,$25 to $50 million (USD),Subex,Data Scientist,1505670.0,1505670.0,3.5,71.0,13.0,16.0,29.0,25.0,17.0,Banglore,No
+India,1001 to 5000 Employees,10.0,Public,Information Technology,$50 to $100 million (USD),Happiest Minds Technologies,Data Scientist,3502239.0,3502239.0,4.3,74.0,21.0,5.0,23.0,19.0,18.0,Banglore,No
+India,10000+ Employees,35.0,Public,Information Technology,$2 to $5 billion (USD),Tech Mahindra,Data Scientist,1506255.0,1506255.0,3.6,64.0,18.0,19.0,38.0,23.0,11.0,Banglore,No
+New Joursey,201 to 500 Employees,11.0,Private,Information Technology,$10 to $25 million (USD),Gramener,Data Scientist,1603355.0,1603355.0,4.5,62.0,23.0,15.0,30.0,26.0,22.0,Banglore,No
+California,1001 to 5000 Employees,21.0,Private,Information Technology,$100 to $500 million (USD),Tavant,Data Scientist,3189760.0,3189760.0,4.0,56.0,36.0,9.0,21.0,20.0,19.0,Banglore,No
+United Kingdom,10000+ Employees,149.0,Public,Manufacturing,$10+ billion (USD),Unilever,Data Scientist,3005895.0,3005895.0,4.2,64.0,12.0,23.0,70.0,13.0,5.0,Banglore,No
+California,10000+ Employees,44.0,Public,Information Technology,$10+ billion (USD),Oracle,Data Scientist,1668644.5,1668644.5,3.7,67.0,15.0,18.0,29.0,27.0,19.0,Banglore,No
+Morocco,501 to 1000 Employees,3.0,Private,Healthcare Medicine,$100 to $500 million (USD),ConcertAI,Data Scientist,1042060.5,1042060.5,3.3,100.0,100.0,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,1001 to 5000 Employees,7.0,Private,Real Estate,$10+ billion (USD),NoBroker,Data Scientist,1027663.5,1027663.5,3.7,43.0,42.0,15.0,35.0,23.0,18.0,Banglore,No
+California,10000+ Employees,23.0,Public,Information Technology,$10+ billion (USD),PayPal,Data Scientist,1005075.0,1005075.0,4.2,52.0,28.0,20.0,45.0,16.0,15.0,Banglore,No
+India,5001 to 10000 Employees,10.0,Private,Information Technology,$10+ billion (USD),Ola,Data Scientist,1007925.0,1007925.0,3.1,47.0,43.0,11.0,23.0,23.0,22.0,Banglore,No
+India,10000+ Employees,110.0,Public,Information Technology,$10+ billion (USD),IBM,Data Scientist,416801.0,416801.0,3.9,69.0,12.0,19.0,43.0,22.0,14.0,Banglore,No
+India,1 to 50 Employees,12.0,Private,Information Technology,Less than $1 million (USD),Redwood Algorithms,Data Scientist,156047.5,156047.5,4.0,63.94645441389291,25.777292576419214,20.723146747352498,42.942367601246104,21.65818759936407,13.633165829145728,Banglore,No
+India,501 to 1000 Employees,30.0,Private,Banking/Finance,$10+ billion (USD),J.P. Morgan Asset Management,Data Scientist,2304975.5,1142503.68,4.0,64.0,13.0,23.0,69.0,11.0,9.0,Banglore,No
+California,51 to 200 Employees,8.0,Private,Information Technology,$1 to $2 billion (USD),Zendrive,Data Scientist,1255332.0,1255332.0,3.8,45.0,48.0,6.0,57.0,11.0,11.0,Banglore,No
+India,201 to 500 Employees,4.0,Private,Information Technology,$100 to $500 million (USD),News Technology Services,Data Scientist,651601.5,651601.5,3.3,40.0,40.0,20.0,44.0,22.0,11.0,Banglore,No
+Ohio,10000+ Employees,22.0,Private,Transportation,$5 to $10 billion (USD),First Student,Data Scientist,312764.0,312764.0,4.1,62.0,8.0,30.0,36.0,36.0,12.0,Banglore,No
+California,501 to 1000 Employees,7.0,Private,Information Technology,$50 to $100 million (USD),Enquero,Data Scientist,602370.0,602370.0,3.7,45.0,43.0,13.0,35.0,19.0,16.0,Banglore,No
+India,5001 to 10000 Employees,21.0,Private,Information Technology,$10+ billion (USD),ITC Infotech,Data Scientist,2879268.0,2879268.0,3.8,58.0,25.0,17.0,34.0,18.0,17.0,Banglore,No
+Texas,5001 to 10000 Employees,52.0,Private,Outsource,$2 to $5 billion (USD),Epsilon,Data Scientist,3359504.0,3359504.0,3.9,60.0,27.0,13.0,31.0,21.0,15.0,Banglore,No
+Illinois,1001 to 5000 Employees,17.0,Private,Consulting,$10+ billion (USD),Mu Sigma,Data Scientist,828517.5,828517.5,3.3,70.0,12.0,19.0,77.0,12.0,5.0,Banglore,No
+India,1001 to 5000 Employees,35.0,Public,Information Technology,$100 to $500 million (USD),Sonata Software,Data Scientist,347346.0,347346.0,3.7,64.0,20.0,16.0,46.0,16.0,12.0,Banglore,No
+Louisiana,10000+ Employees,91.0,Public,Information Technology,$10+ billion (USD),Lumen,Data Scientist,821605.5,821605.5,3.8,61.0,20.0,19.0,51.0,13.0,12.0,Banglore,No
